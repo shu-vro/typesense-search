@@ -1,0 +1,1552 @@
+[
+  {
+    "question": "<p>The following observations were taken for determining the surface tension of water by capillary tube method : diameter of capillary , \\(D = 1.25 \\times 10^{-2} m\\). Taking \\( g = 9.80 m s^{-2}\\) and using the relation \\(T = (rgh/2) \\times 10^3 Nm^{-1}\\). what is the possible error in measurement of surface tension T?</p>",
+    "A": "<p>\\(2.4\\%\\)</p>",
+    "B": "<p>\\(15\\%\\)</p>",
+    "C": "<p>\\(1.5\\%\\)</p>",
+    "D": "<p>\\(0.15\\%\\)</p>",
+    "solution": "<p>By ascent formula, we have surface tension,</p><p>\\( \\mathrm{T}=\\operatorname{rhg} / 2 \\times 10^{3} \\mathrm{~N} / \\mathrm{m} \\)</p><p>\\( =\\frac{d h g}{4} \\times 10^{3} \\frac{\\mathrm{N}}{\\mathrm{m}} \\quad\\left(\\because r=\\frac{d}{2}\\right) \\)</p><p>\\( \\frac{\\Delta T}{T}=\\frac{\\Delta d}{d}+\\frac{\\Delta h}{h} \\quad \\) [given, \\( g \\) is constant]</p><p>\\( \\begin{aligned} \\text { So, percentage } &amp; =\\frac{\\Delta T}{T} \\times 100=\\left(\\frac{\\Delta d}{d}+\\frac{\\Delta h}{h}\\right) \\times 100 \\\\ = &amp; \\left(\\frac{0.01 \\times 10^{-2}}{1.25 \\times 10^{-2}}+\\frac{0.01 \\times 10^{-2}}{1.45 \\times 10^{-2}}\\right) \\times 100 \\\\ = &amp; 1.5 \\% \\\\ \\therefore \\quad \\frac{\\Delta T}{T} \\times 100 &amp; =1.5 \\% \\end{aligned} \\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>একটি ফোটনের শক্তি ও কম্পাঙ্কের মধ্যে সম্পর্ক হলো- E=h<em>v; &nbsp;</em>h এর মাত্রা কোনটি?</p>",
+    "A": "<p>ML<sup>2</sup>T<sup>-1</sup></p>",
+    "B": "<p>ML<sup>2</sup>T<sup>-2</sup></p>",
+    "C": "<p>ML<sup>2</sup>T</p>",
+    "D": "<p>ML<sup>2</sup>T<sup>2</sup></p>",
+    "solution": "<p>\\( \\begin{aligned} \\text { প্ল্যাঙ্কের ধ্রুবক, } h &amp; =\\frac{\\mathrm{E}}{v} \\quad[\\because \\mathrm{E}=h \\mathrm{v}] \\\\ &amp; =\\frac{\\text { শক্তি }}{\\text { কম্পাঙ্ক}}=\\frac{\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-2}\\right]}{\\left[\\mathrm{T}^{-1}\\right]} \\\\ &amp; =\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-1}\\right]\\end{aligned} \\)  </p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>একটি অর্ধবৃত্তাকার বাটি \\( 1.2 \\times 10^{3} \\mathrm{kgm}^{-3} \\) ঘনত্বের তরলে ডুবে না গিয়ে কেবল ভাসে। যদি বাহ্যিক ব্যাস এবং বাটির ঘনত্ব যথাক্রমে \\( 1 \\mathrm{~m} \\) and \\( 2 \\times 10^{4} \\mathrm{kgm}^{-3} \\) তাহলে বাটির অভ্যন্তরীণ ব্যাস কত হবে?</p><p></p>",
+    "A": "<p>\\( 0.94 \\mathrm{~m} \\) </p>",
+    "B": "<p>\\( 0.96 \\mathrm{~m} \\) </p>",
+    "C": "<p>\\( 0.98 \\mathrm{~m} \\) </p>",
+    "D": "<p>\\( 0.99 \\mathrm{~m} \\) </p>",
+    "solution": "<p>Solve:Let \\( D_{1} \\) be the inner diameter of the hemispherical bowl and \\( D_{2} \\) be the outer diameter of the bowl. As, bowl is just floating so</p><p>\\( \\begin{array}{l} \\frac{4}{3} \\pi\\left(\\frac{1}{2}\\right)^{3} \\times 1.2 \\times 10^{3}=\\frac{4}{3} \\pi\\left[\\left(\\frac{1}{2}\\right)^{3}-\\left(\\frac{D_{1}}{2}\\right)^{3}\\right] \\times\\left(2 \\times 10^{4}\\right) \\\\ \\text { or } \\quad \\frac{1.2 \\times 10^{3}}{2 \\times 10^{4}}=1-D_{1}^{3} \\\\ \\Rightarrow \\quad D_{1}=\\left(1-\\frac{1.2}{20}\\right)^{1 / 3}=\\left(\\frac{18.8}{20}\\right)^{1 / 3} \\\\ \\end{array} \\)</p><p>On solving, we get</p><p>\\( D_{1}=0.98 \\mathrm{~m} \\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>If a force of \\( 10 \\mathrm{~N} \\) is resolved into components. The what is the magnitude of \\( \\mathrm{OY} \\) ?</p>",
+    "A": "<p>\\( 4 \\mathrm{~N} \\)</p>",
+    "B": "<p> \\( 9 \\mathrm{~N} \\)</p>",
+    "C": "<p>\\( 12 \\mathrm{~N} \\)</p>",
+    "D": "<p>\\( 14 \\mathrm{~N} \\)</p>",
+    "solution": "<p></p>",
+    "answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p><span>একটি কাঠের ঘনবস্তুর প্রত্যেক ধারের দৈর্ঘ্য 50cm এবং ঘনত্ব 500kg/m<sup>3</sup>। বস্তুটি 1000kg/m<sup>3</sup> ঘনত্বের পানিতে ভাসছে। ঘনবস্তুটির নিচের তল পানির উপরের তল থেকে কত নিচে থাকবে?</span></p>",
+    "A": "<p>0.2 m</p>",
+    "B": "<p>0.25 m</p>",
+    "C": "<p>0.5 m</p>",
+    "D": "<p>0.45 m</p>",
+    "solution": "<p> \\( \\mathrm{h}=\\frac{50 \\times 500}{1000}=25 \\mathrm{~cm}=0.25 \\mathrm{~m} \\)</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>16 এবং 36 একক দীপন ক্ষমতা বিশিষ্ট দুটি বাতি পরস্পর থেকে 1m দূরে অবস্থিত। দূর্বলতর বাতি থেকে কত দূরে একটি পর্দা রাখলে এর উভয় পাশে সমান আলো পড়বে?</span></p>",
+    "A": "<p>40 cm</p>",
+    "B": "<p>60 cm</p>",
+    "C": "<p>66.67 cm</p>",
+    "D": "<p>None of these</p>",
+    "solution": "<p>ধরি, দুর্বলনত্র বাতি বা, ‌\\(16\\) দীপন ক্ষমতা বিশিষ্ট বাতি হতে পর্দার দূরত্য \\( x \\) \\( \\therefore 36 \\) দীপন ক্ষমতা বিশিষ্ট বাতি হতে পর্দার দূরত্থ \\( (1-\\mathrm{x}) \\)</p><p>প্রশ্নমতে, \\( \\mathrm{E}_{1}=\\mathrm{E}_{2}, \\frac{16}{\\mathrm{x}^{2}}=\\frac{36}{(1-\\mathrm{x})^{2}}\\left[\\because \\mathrm{E}=\\frac{\\mathrm{I}}{\\mathrm{r}^{2}}\\right] \\)</p><p>\\( \\Rightarrow \\frac{4}{x}=\\frac{6}{1-x} \\Rightarrow x=\\frac{4}{10}=\\frac{2}{5} \\quad \\therefore x=\\frac{2}{5} m=\\frac{2}{5} \\times 100 \\mathrm{~cm}=40 \\mathrm{~cm} \\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>Find the dimension of \\(\\dfrac {G}{4\\pi \\epsilon_{0}}\\), where \\(G\\) is universal gravitation constant and \\(\\epsilon_{0}\\) is permittivity</p><p>of free space.</p><p></p>",
+    "A": "<p>\\([M^{-2}A^{2}T^{2}]\\)</p>",
+    "B": "<p>\\([M^{-2}L^{4}T^{4}A^{-2}]\\)</p>",
+    "C": "<p>\\([M^{0}L^{6}T^{-6}A^{-2}]\\)</p>",
+    "D": "<p>\\([M^{2}A^{2}T^{2}]\\) </p>",
+    "solution": "<p>We know that ,</p><p>Gravitational force, \\(F_g= \\dfrac{Gm_1m_2}{r^2}\\)</p><p></p><p>Dimension of \\(G= \\dfrac{F_g r^2}{m_1 m_2} = \\dfrac{MLT^{-2}\\times L^2}{M^2}=M^{-1}L^3T^{-2}\\)</p><p></p><p>Also</p><p>Electrostatic force , \\(F_e= \\dfrac{q_1 q_2}{4\\pi \\epsilon_0 r^2}\\)</p><p></p><p>Dimension of \\(\\dfrac1{4\\pi \\epsilon_0 }= \\dfrac{F_er^2}{q_1 q_2}=\\dfrac{MLT^{-2}\\times L^2}{AT\\times AT}= ML^3T^{-4}A^2\\)</p><p></p><p></p><p>So, Dimension of \\(\\dfrac G{4\\pi \\epsilon_0 }=G (\\dfrac 1{4\\pi \\epsilon_0}) = = ML^3T^{-4}A^2 \\times M^{-1}L^3T^{-2}= M^0 L^6T^{-6}A^{-2}\\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>নিম্ন স্ফুটনাংকের কোনো তরল পরিপার্শ্ব হতে লীনতাপ বা সুপ্ততাপ গ্রহণ করে পরিপার্শ্বকে শীতল করে তাকে কী বলে? </span></p>",
+    "A": "<p>হিমায়ন </p>",
+    "B": "<p>হিমায়ক </p>",
+    "C": "<p>তাপীয় ইঞ্জিন </p>",
+    "D": "<p>রেফ্রিজারেটর </p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>যদি P =i -j +K এবং Q = i + j -k একটি সামান্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করে ,তাহলে উপযুক্ত এককে সামান্তরিকের ক্ষেত্রফল নির্ণয় কর।</p>",
+    "A": "<p>\\( 2 \\sqrt{2} \\)</p>",
+    "B": "<p>2</p>",
+    "C": "<p>1</p>",
+    "D": "<p>\\( \\sqrt{2} \\)</p>",
+    "solution": "<p></p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>Vector dot product obeys -</p><p>i. commutative law</p><p>ii. distributive law</p><p>iii. associative law</p><p>Which one is correct?</p>",
+    "A": "<p>\\( \\mathrm{i} \\) and \\( \\mathrm{ii} \\)</p>",
+    "B": "<p> \\( \\mathrm{ii} \\) and \\( \\mathrm{iii} \\)</p>",
+    "C": "<p> \\( \\mathbf{i} \\) and \\( \\mathrm{iii} \\)</p>",
+    "D": "<p> \\( \\mathrm{i}, \\mathrm{ii} \\) and \\( \\mathrm{iii} \\)</p>",
+    "solution": "<p></p>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>If pressure \\(P\\), area \\(A\\) and length \\(L\\) are taken to be fundamental quantities in a system of units, then energy has dimensional formula.</p>",
+    "A": "<p>\\(P^{1}A^{1}L^{1}\\)</p>",
+    "B": "<p>\\(P^{1}A^{3/2}L^{0}\\)</p>",
+    "C": "<p>\\(P^{1}A^{0}L^{3}\\)</p>",
+    "D": "<p>Cannot take \\(P, A\\) and \\(L\\) as fundamental quantities</p>",
+    "solution": "<p>We know that</p><p>\\(P = \\dfrac {F}{A} = \\dfrac {MLT^{-2}}{L^{2}}\\)</p><p>\\(= ML^{-1} T^{-2}\\)</p><p>\\(A = L^{2}\\)</p><p>\\(L = L\\)</p><p>Let \\(E = P^{x} A^{y} L^{z}\\)</p><p>\\(E = ML^{2}T^{-2}\\)</p><p>\\(= (ML^{-1}T^{-2})^{x} (L^{2})^{y} (L)^{2}\\)</p><p>\\(= M^{x} L^{-x + 2y + z} T^{-2x}\\)</p><p>\\(x = 1, -2x = -2\\)</p><p>\\(x = 1\\)</p><p>\\(-x + 2y + z = 2\\)</p><p>\\(z = 0, 2y = 2 + 1\\)</p><p>\\(y = \\dfrac {3}{2}\\)</p><p>\\(\\therefore E = P^{1} A^{3/2} L^{0}\\).</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span><span>কোনটি সঠিক নয়?</span></span></p>",
+    "A": "<p>বায়বীয় অবস্থায় অণুসমূহের কম্পন, আবর্তন ও স্থানান্তর গতি অনেক বেশী থাকে</p>",
+    "B": "<p>এসিড ক্ষারক সাম্যাবস্থায় দুজোড়া এসিড ও ক্ষারক বিরাজ করে এবং এদেরকে পরস্পরের অনুবন্ধী এসিড ক্ষারক জোড় বলে</p>",
+    "C": "<p>নিউক্লিয় বিক্রিয়ায় নিউট্রনের সংখ্যা পরিবর্তন হলেও সর্বমোট প্রোটনের সংখ্যা পরিবর্তন হয় না।</p>",
+    "D": "<p>আদর্শ তরল দ্রবণের এনথালপির মান শূন্য</p>",
+    "solution": "<p>উত্তর :<span>নিউক্লিয় বিক্রিয়ায় নিউট্রনের সংখ্যা পরিবর্তন হলেও সর্বমোট প্রোটনের সংখ্যা পরিবর্তন হয় না।।</span></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>\\(PV=\\frac{1}{3}mN\\ \\overline{C^2}\\)সমীকরণে\\(\\ \\overline{C^2}\\)-</p>",
+    "A": "<p>গড় বেগ</p>",
+    "B": "<p>গড় বৰ্গবেগ</p>",
+    "C": "<p>মূল গড় বৰ্গবেগ</p>",
+    "D": "<p>আলোর বেগের বর্গ</p>",
+    "solution": "<p></p><p>গ্যাসের গতীয় তত্ত্বের সূত্রানুসারে, সমীকরণ \\( PV = \\frac{1}{3}mN \\overline{C^2} \\) এ \\( \\overline{C^2} \\) হলো গড় বৰ্গবেগ (mean square velocity)। এটি কণার বেগের বর্গের গড়কে নির্দেশ করে।</p><p></p><p>অতএব, সঠিক উত্তর হলো: <strong>গড় বৰ্গবেগ</strong></p>",
+    "answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>দুটি শব্দ তরঙ্গ উৎসের তীব্রতা লেভেল যথাক্রমে  \\(75\\ dB\\) ও \\(82dB\\) । উৎসদ্বয় একই সাথে বাজলে হলে নতুন তীব্রতা লেভেল কত হবে?</p>",
+    "A": "<p>\\(7\\ dB \\)</p>",
+    "B": "<p>\\(83\\ dB \\)</p>",
+    "C": "<p>\\(74\\ dB \\)</p>",
+    "D": "<p>\\(157\\ dB \\)</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>4000Å তরঙ্গ দৈর্ঘ্যের দুইটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য <span>\\(2\\times10^{-7\\ }m\\)</span> হলে, তাদের মধ্যে দশা পার্থক্য হবে-</p>",
+    "A": "<p><span class=\"ltx\">\\(\\pi\\)</span></p>",
+    "B": "<p><span class=\"ltx\">\\(2\\pi\\)</span></p>",
+    "C": "<p><span class=\"ltx\">\\(4\\pi\\)</span></p>",
+    "D": "<p><span class=\"ltx\">\\(\\pi/2\\)</span></p>",
+    "solution": "<p>\\[<br>\\begin{aligned}<br>\\delta &amp; =\\frac{2 \\pi}{\\lambda} \\times 2 \\times 10^{-7} \\\\<br>&amp; =\\frac{2 \\pi}{1000 \\times 10^{-10}} \\times 10^{-7} \\\\<br>&amp; =2 \\pi&nbsp;<br>\\end{aligned}<br>\\]</p>",
+    "answer": "B",
+    "type": ""
+  },
+  {
+    "question": "<p><span>কোন উক্তিটি পরবশ কম্পাঙ্কের বেলায় সঠিক নয়? </span></p>",
+    "A": "<p>কোনো একটি বস্তু যদি একটি পর্যায় বলের ক্রিয়ায় কাঁপতে থাকে তখন ওই বস্তুর কম্পঙ্কে পরবশ কম্পন বলে</p>",
+    "B": "<p>সকল পরবশ কম্পন অনুনাদ নয় </p>",
+    "C": "<p>পরবশ কম্পনের বিস্তার ছোট বা বড় হতে পারে </p>",
+    "D": "<p>পরবশ কম্পনে বস্তুর কম্পন শুরু হবার অল্প সময় পরই নিয়মিত হয় </p>",
+    "solution": "<p>\n</p><p>পরবশ কম্পন (forced vibration )</p><p>\n</p><p>বাইরে থেকে পর্যাবৃত্ত বল প্রয়োগ করলে পরবশ</p><p>\n</p><p>কম্পন সৃষ্টি হয়।</p><p>\n</p><p>পরবশ কম্পনের কম্পাঙ্ক বস্তুর ওপর প্রযুক্ত</p><p>\n</p><p>পর্যাবৃত্ত বলের কম্পাঙ্কের সমান হয়।</p><p>\n</p><p>প্রযুক্ত পর্যাবৃত্ত বল বস্তুর ওপর যতক্ষণ ক্রিয়া</p><p>\n</p><p>করে, পরবশ কম্পনও ততক্ষণ স্থায়ী হয়।</p><p>\n</p><p>পরবশ কম্পনের বিস্তার সাধারণত মুক্ত কম্পনের</p><p>\n</p><p>বিস্তারের বেশি হয়।</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>0°C তাপমাত্রায় পানিকে বাম্পীভূত করা যেতে পারে , যদি পারিপার্শ্বিক চাপ হয়-</p>",
+    "A": "<p>760 mm of Hg </p>",
+    "B": "<p>76 mm of Hg</p>",
+    "C": "<p>40 mm of Hg</p>",
+    "D": "<p>4.58 mm of Hg</p>",
+    "solution": "<p>\\( 0^{\\circ} \\mathrm{C} \\) তাপমাত্রায় পানির বাষ্প চাপ হল \\( 4.6 \\mathrm{~mm} \\) of Hg। এর মানে হল যে \\( 0^{\\circ} \\mathrm{C} \\) তাপমাত্রায় পানির বাষ্পীভবনের জন্য পারিপার্শ্বিক চাপ 4.6 mm of Hg এর চেয়ে কম হওয়া উচিত।</p><p>সুতরাং, \\( 0^{\\circ} \\mathrm{C} \\) তাপমাত্রার পানিকে বাশ্পীভূত করা যেতে পারে, যদি পারিপার্শ্বিক চাপ হয় \\( \\mathbf{4 m m} \\) of \\( \\mathrm{Hg} \\) ।</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>জড়তার ভ্রামকের একক কী?</p>",
+    "A": "<p>\\( \\mathrm{kgm} \\)</p>",
+    "B": "<p>\\( \\mathrm{kgm}^{-1} \\)</p>",
+    "C": "<p>\\( \\mathrm{kgm}^{2} \\)</p>",
+    "D": "<p>\\( \\mathrm{kgm}^{-2} \\)</p>",
+    "solution": "<p>আমরা জানি জড়তার ভ্রামক,</p><p></p><p>\\( I=\\sum m_{i} r_{i}^{2} \\)</p><p> </p><p>এখানে:</p><p></p><p>\\( \\cdot \\) I হলো জড়তার ভ্রামক,</p><p></p><p>- \\( m_{i} \\) হলো প্রতিটি কণার ভর,</p><p></p><p>- \\( r_{i} \\) হলো সেই কণার কেন্দ্রের থেকে দুরত্ব।</p><p> </p><p>একক নির্ধারণ:</p><p></p><p>- \\( m_{i} \\) এর একক হলো কিলোগ্রাম (kg),</p><p></p><p>\\( \\cdot \\) \\( r_{i} \\) এর একক হলো মিটার (m),</p><p></p><p>- \\( r_{i}^{2} \\) এর একক হবে মিটার বর্গ \\( \\left(m^{2}\\right) । \\)</p><p> </p><p>তাহলে, \\( I \\) এর একক হবে:</p><p>\n</p><p>\\( I=m \\times r^{2} \\)</p><p> </p><p>অথবা,</p><p></p><p>\\( I=\\mathrm{kg} \\times \\mathrm{m}^{2}=\\mathrm{kg} \\cdot \\mathrm{~m}^{2} \\)</p><p></p>",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>একটি চাকতির ওপর প্রযুক্ত টর্ক বনাম কৌনিক সরণের সম্পর্ক \\(\\tau=\\theta^2+3 \\theta\\) । জড়তার ভ্রামক \\(1kgm^2\\) হলে 2πrad কৌণিক দূরত্ব অতিক্রম মুহূর্তে কৌণিক বেগ কত হবে? [আদি কৌণিক বেগ 0]</p>",
+    "A": "<p>\\(16.85 \\)\\(rads^{-1}\\)</p>",
+    "B": "<p>\\(15.85 rads^{-1}\\)</p>",
+    "C": "<p>\\(17.85 rads^{-1}\\)</p>",
+    "D": "<p>\\(14.85 rads^{-1}\\)</p>",
+    "solution": "<p>\\(α=θ^2+3θ⇒\\frac{dω}{dt}=θ^2+3θ\\) \\(⇒ \\frac{dω}{dθ}⋅ \\frac{dθ}{dt}=θ^2+3θ ⇒ ωdω=(θ^2+3θ)dθ\\)</p><p>\\(⇒\\left[\\frac{ω^2}{2}\\right]_o^ω=\\left[\\frac{θ^3}{3}+\\frac{3θ^2}{2}\\right]_o^{2π}⇒ω=16.85 rads^{-1}\\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>শব্দের তীব্রতা দ্বিগুণ হলে Acoustic তীব্রতা লেভেল কত বৃদ্ধি পাবে?</p>",
+    "A": "<p>4.01db</p>",
+    "B": "<p>3.01db</p>",
+    "C": "<p>2.02 DB</p>",
+    "D": "<p>1.03 db</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>দুইটি ট্রেন \\(80\\ km/h\\) বেগে বিপরীত দিকে চলছে। তারা একে অপরকে অতিক্রম করার সময় সময় একটি ট্রেন বাঁশি বাজায় যার কম্পাঙ্ক \\(900\\ Hz\\) । অতিক্রমের পূর্বে অপর ট্রেনের যাত্রী যে শব্দ শুনত পাবে তার কম্পাঙ্ক কত? [শব্দের বেগ \\(332\\ ms^{-1}]\\)</p>",
+    "A": "<p>\\(900\\ Hz \\)</p>",
+    "B": "<p>\\(1215\\ Hz \\)</p>",
+    "C": "<p>\\(987\\ Hz \\)</p>",
+    "D": "<p>\\(1029\\ Hz \\)</p>",
+    "solution": "",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>একটি শব্দ উৎস থেকে \\(2.5km\\) দূরে শব্দের তীব্রতা  \\(5.22\\times{10}^{-8}Wm^{-2}\\) হলে শব্দ উৎসের ক্ষমতা কত?</p>",
+    "A": "<p>\\(0.33\\ W \\)</p>",
+    "B": "<p>\\(4.1\\ W \\)</p>",
+    "C": "<p>\\(32\\ W \\)</p>",
+    "D": "<p>\\(6.65\\ W \\)</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>কোনো বৈদ্যুতিক পাখার কৌণিক ত্বরণ \\(\\alpha\\) ও সময় t এর মধ্যে সম্পর্ক হল \\(\\alpha\\left(1+\\sin{t}\\right)+\\cos{t}=0\\)। t = 0 সময়ে পাখার কৌণিক বেগ \\(2\\ rad.s^{-1}\\) হলে 10 s পর পাখার কৌণিক বেগ কত হবে?</p>",
+    "A": "<p>\\(2.785\\ rad.s^{-1} \\)</p>",
+    "B": "<p>\\(0.785\\ rad.s^{-1} \\)</p>",
+    "C": "<p>\\(1.86\\ rad.s^{-1} \\)</p>",
+    "D": "<p>\\(0.686\\ rad.s^{-1}  \\)</p>",
+    "solution": "<p>\\(\\omega-2=\\int_{0}^{10}\\alpha dt=\\int_{0}^{10}\\frac{-\\cos{t}}{1+\\sin{t}}dt\\)</p><p>\\(\\therefore\\omega-2=\\left[-\\ln{\\left(1+\\sin{t}\\right)}\\right]_0^{10}=0.785\\ rad.s^{-1}\\)</p><p>\\(\\therefore\\omega=2+0.785=2.785\\ rad.s^{-1}\\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>0.2m পুরুত্বের স্তরবিশিষ্ট কোনো প্রবাহীর ভূমি সংলগ্ন তলে \\(7.8\\times{10}^2\\ ms^{-1}\\) বেগে এবং ওপরের তলে \\(3.9\\times{10}^3\\ ms^{-1}\\) বেগে স্রোত বহমান। বেগের নতি কত?</p>",
+    "A": "<p>\\(\\\\2.34\\times{10}^4s^{-1} \\)</p>",
+    "B": "<p>\\(\\\\9.36\\times{10}^3s^{-1} \\)</p>",
+    "C": "<p>\\(\\\\3.39\\times{10}^4\\ s^{-1} \\)</p>",
+    "D": "<p>\\(1.56\\times{10}^4\\ s^{-1} \\)</p>",
+    "solution": "<p>নতি \\( =\\frac{dv}{dy}=\\frac{3.9\\times{10}^3-7.8\\times{10}^2}{0.2}=1.56\\times{10}^4s^{-1} \\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>চিত্রের স্থির তরঙ্গের বেগ \\(350\\ ms^{-1} \\) হলে এর কম্পাঙ্ক-</p>",
+    "A": "<p>85.5 Hz</p>",
+    "B": "<p>65.625 Hz</p>",
+    "C": "<p>71.25 Hz</p>",
+    "D": "<p>43.75 Hz</p>",
+    "solution": "<p>চিত্র হতে, \\(\\frac{3\\lambda}{2}=8\\therefore\\lambda=5.33m \\)</p><p>\\(f=\\frac{v}{\\lambda}=65.625 Hz\\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>নিম্নের কোনটি স্বাভাবিক শ্বাস-প্রশ্বাসের তীব্রতা \\( Wm^{-2} \\) ?</p>",
+    "A": "<p>\\(10^{-8}\\)</p>",
+    "B": "<p>\\(10^{-9}\\)</p>",
+    "C": "<p>\\(10^{-10}\\)</p>",
+    "D": "<p>\\(10^{-11}\\)</p>",
+    "solution": "",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>The period of small oscillations is</p>",
+    "A": "<p>\\(\\pi a\\sqrt{\\frac{ma}{C}}\\)</p>",
+    "B": "<p>\\(\\pi a\\sqrt{\\frac{2ma}{C}}\\)</p>",
+    "C": "<p>\\(2\\pi \\sqrt{\\frac{2ma^{3}}{C}}\\)</p>",
+    "D": "<p>\\(2\\pi a\\sqrt{\\frac{ma}{C}}\\)</p>",
+    "solution": "<p>For small oscillations about the positions of stable equilibrium, let \\(\\mathrm{x}=-\\mathrm{a}+\\mathrm{x}'\\) where ;\\({\\times }'&lt; &lt; a.\\) Then the equation of motion becomes</p><p>\\(m\\frac{d^{2}{\\times }'}{dt^{2}}=\\frac{-C{\\times }'(2a-{\\times }')}{\\left [ ({\\times }'-a)^{2}+a^{2} \\right ]^{2}}\\)</p><p>\\(\\simeq -\\frac{C{\\times }'}{2a^{3}}\\)</p><p>About x = - a : period T =&amp; ;\\(\\frac{2\\pi }{\\omega }=2\\pi \\sqrt{\\frac{2ma^{3}}{C}}\\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>দুটি তরঙ্গের প্রতিটির তরঙ্গদৈর্ঘ্য 12 cm করে। যদি একটি থেকে অপরটি 14 cm অগ্রগামী হয় তবে তাদের মধ্যে দশা পার্থক্য- </p>",
+    "A": "<p><span class=\"ltx\">\\(\\frac{\\pi}{3}\\)</span></p>",
+    "B": "<p><span class=\"ltx\">\\(\\frac{\\pi}{4}\\)</span></p>",
+    "C": "<p>\\(\\frac{\\pi}{5}\\)</p>",
+    "D": "<p>\\(\\frac{\\pi}{6}\\)</p>",
+    "solution": "<p>দশা পার্থক্য</p><p>\\( \\begin{aligned} &amp; =\\frac{2 \\pi}{\\lambda}\\left(x_{2}-x_{1}\\right) \\\\ = &amp; \\frac{2 \\pi}{\\lambda}(14-R) \\\\ = &amp; \\frac{2 \\pi}{\\lambda} \\times 2=\\frac{2 \\pi}{12} \\times 2=\\frac{\\pi}{3} \\end{aligned} \\)</p>",
+    "answer": "A",
+    "type": ""
+  },
+  {
+    "question": "<p><span>2.0 mm ব্যাসের একটি পানির গোলককে ভেঙ্গে 10 লক্ষ সম-আয়তন বিশিষ্ট ক্ষুদ্র ফোঁটা তৈরি করলে কি পরিমান কাজ সম্পন্ন হবে? [পানির পৃষ্টটান 72 × 10<sup>-3</sup> Nm<sup>-1</sup>]</span></p>",
+    "A": "<p>10 × 10<sup>-5 </sup>J</p>",
+    "B": "<p>9.85 × 10<sup>-4 </sup>J</p>",
+    "C": "<p>10 × 10<sup>-4 </sup>J</p>",
+    "D": "<p>8.95 × 10<sup>-5 </sup>J</p>",
+    "solution": "<p>W=4π((n*r^2)-R^2)T</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>কোনটি সঠিক? </span></p>",
+    "A": "<p>শব্দ সৃষ্টিকারী বস্তুর সংস্পর্শে বা কাছাকাছি অনুনাদ বা পরবশ কম্পন সৃষ্টিকারী কোন বস্তু থাকলে শব্দের তীব্রতা হ্রাস পায় </p>",
+    "B": "<p>দুই মুখ খোলা নলে সরু নিঃসরণে সর্বদা দুই মুখে দুইটি সুস্পন্দ বিন্দুর উৎপত্তি হয় </p>",
+    "C": "<p>অনুনাদে বস্তুর কম্পন শুরু হবার বেশ কিছু সময় অতিবাহিত হবার পরই নিয়মিত হয় </p>",
+    "D": "<p>কোন গ্যাসীয় মাধ্যমে শব্দের বেগ উহার ঘনত্বের বর্গমূলের সমানুপাতিক </p>",
+    "solution": "<p>উত্তর :<span>দুই মুখ খোলা নলে সরু নিঃসরণে সর্বদা দুই মুখে দুইটি সুস্পন্দ বিন্দুর উৎপত্তি হয়। </span></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>শ্রবণোত্তর শব্দের ব্যবহারিক প্রয়োগ নয় কোনটি ?</p>",
+    "A": "<p>সমুদ্রের গভীরতা নির্ণয়ে</p>",
+    "B": "<p>বিক্রিয়ার গতি বৃদ্ধিতে</p>",
+    "C": "<p>জীবাণু ধ্বংসে</p>",
+    "D": "<p>দ্র্যব্যতা বাড়াতে</p>",
+    "solution": "<p>শ্রবণোত্তর শব্দের ব্যবহারিক প্রয়োগগুলোর মধ্যে <strong>দ্র্যব্যতা বাড়ানো</strong> ব্যবহার নেই।</p><p> </p><p><strong>ব্যাখ্যা:</strong></p><ul><li><p><strong>সমুদ্রের গভীরতা নির্ণয়ে:</strong> শ্রবণোত্তর শব্দ (Ultrasound) ব্যবহার করে সমুদ্রের তলদেশ থেকে প্রতিফলিত শব্দের সময় পরিমাপ করে সমুদ্রের গভীরতা নির্ণয় করা হয়।</p></li><li><p><strong>গতি বৃদ্ধিতে:</strong> বিশেষ করে রাসায়নিক বিক্রিয়াগুলোতে শ্রবণোত্তর শব্দ ব্যবহার করে তরল পদার্থের কম্পন তৈরি করে বিক্রিয়ার গতি বৃদ্ধি করা হয়।</p></li><li><p><strong>জীবাণু ধ্বংসে:</strong> উচ্চ তীব্রতার শ্রবণোত্তর শব্দ ব্যবহার করে জীবাণু এবং অন্যান্য ক্ষতিকর জীবাণু ধ্বংস করা হয়। </p></li></ul>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>50 km উঁচু থেকে পড়ন্ত দুটি শিলাপিন্ডের ব্যাসার্ধের অনুপাত 1 : 2 শিলাপিন্ড দুইটির অন্তবেগের অনুপাত হবে-</span></p>",
+    "A": "<p>1 : 9 </p>",
+    "B": "<p>9 : 1 </p>",
+    "C": "<p>4 : 1 </p>",
+    "D": "<p>1 : 4 </p>",
+    "solution": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>∝</mo><msup><mi>r</mi><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mo>∴</mo><mfrac><msub><mi>v</mi><mn>1</mn></msub><msub><mi>v</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></mfrac><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mfrac><msub><mi>v</mi><mn>1</mn></msub><msub><mi>v</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><msub><mi>v</mi><mn>1</mn></msub><mo>:</mo><msub><mi>v</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo>:</mo><mn>4</mn></math></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span><span>প্রভাব গোলকের ব্যাসার্ধ কোনটি?</span></span></p>",
+    "A": "<p>10<sup>-15</sup>m</p>",
+    "B": "<p>10<sup>-10</sup>m</p>",
+    "C": "<p>10<sup>-9</sup>m</p>",
+    "D": "<p>10<sup>-8</sup>m</p>",
+    "solution": "<p> দুটি অণুর মধ্যে সর্বোচ্চ যে দূরত্ব পর্যন্ত সংশক্তি বল অনুভূত হয় তাকে</p><p>\n</p><p>আণবিক পাল্লা বলে। আণবিক পাল্লার মান প্রায় 10-10m। আণবিক পাল্লায় সমান ব্যাসার্ধ নিয়ে কোনো একটি অণুকে</p><p>\n</p><p>কেন্দ্র করে একটি গোলক অঙ্কন করলে ওই গোলককে প্রভাব গোলক বলে।</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "যখন আলোক রশ্মি এক মাধ্যম হতে অন্য মাধ্যমে হতে অন্য মাধ্যমে গমন করে তখন নিম্নের কোনটির পরিবর্তন হয় না?  \r\n                                    ",
+    "A": "বেগ",
+    "B": "তরঙ্গদৈর্ঘ্য",
+    "C": "শক্তি",
+    "D": "কম্পাঙ্ক",
+    "solution": "",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p><span>কোন কক্ষে শব্দের তীব্রতা 10<sup>-8</sup> Wm<sup>-2</sup> । শব্দের তীব্রতা দশ গুণ হলে, তীব্রতা লেভেল কত হবে ?  </span></p>",
+    "A": "<p>40dB</p>",
+    "B": "<p>50dB</p>",
+    "C": "<p>44dB</p>",
+    "D": "<p>500dB</p>",
+    "solution": "<p>তীব্রতা লেভেল \\( =10 \\log \\left(\\frac{10^{-0} \\times 10}{10^{-12}}\\right)=50 \\mathrm{~dB} \\).</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>একজন বালক 20 m দুরের একটি খাড়া উচু পাহাড় থেকে শব্দ উৎপন্ন করে। তখন বায়ুর তাপমাত্রা ছিল 15° C . 0° C তাপমাত্রায় শব্দের বেগ   332 m<sup>-1</sup>s হলে 15° C তাপমাত্রায় শব্দের বেগ কত? </span></p>",
+    "A": "<p>323 m/s</p>",
+    "B": "<p>341 m/s</p>",
+    "C": "<p>350 m/s</p>",
+    "D": "<p>362 m/s</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি রেডিও স্টেশন 300 m তরঙ্গদৈর্ঘ্যে অনুষ্ঠান প্রচার করে। এর কম্পাঙ্ক কত?&nbsp;</p>",
+    "A": "<p>1 Hz</p>",
+    "B": "<p>300 kHz</p>",
+    "C": "<p>1 kHz</p>",
+    "D": "<p>1 MHz</p>",
+    "solution": "<p>এখানে,</p><p>C = 3\\(\\times 10^8\\)</p><p>f = ?</p><p>\\(\\lambda\\) = 300 m</p><p>= 3 \\(\\times 10²\\)m</p><p>তরঙ্গদৈর্ঘ্য \\( \\lambda=\\frac{c}{f} \\)</p><p>কম্পাঙ্ক</p><p>\\( \\begin{array}{l}=\\frac{3 \\times 10^{8}}{3 \\times 10^{2}} \\\\ =1 \\times 10^{6} \\mathrm{~Hz} \\\\ =1 \\mathrm{~MHz}\\end{array} \\)</p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>কোন উক্তিটি পরবশ কম্পনের বেলায় সঠিক নয়?</span></p>",
+    "A": "<p>কোন একটি বস্তু যদি একটি পর্যায় বলের ক্রিয়ায় কাঁপতে থাকে তখন ঐ বস্তুর কম্পনকে পরবশ কম্পন বলে।  </p>",
+    "B": "<p>সকল পরবশ কম্পন অনুনাদ নয় </p>",
+    "C": "<p>পরবশ কম্পনে বিস্তার ছেট বা বড় হতে পারে </p>",
+    "D": "<p>পরবশ কম্পনে বস্তুর কম্পন শুরু হবার অল্প সময় পরেই নিয়মিত হয় </p>",
+    "solution": "<p>নিচের পার্থক্যটি লক্ষ্য করঃ পরবশ কম্পন কোন একটি বস্তু যদি একটি পর্যায় বলের ক্রিয়ায় কাপঁতে থাকে তখন বস্তুর ঐ কম্পনকে পরবশ কম্পন বলে । সকল পরবশ কম্পন অনুনাদ নয়। পরবশ কম্পনে বিস্তার ছোট বা বড় হতে পারে।</p><p></p><p>অনুনাদ: কোন একটি বস্তুর স্বাভাবিক পর্যায়কাল যদি তার উপর আরোপিত পর্যায় বলের পর্যায়কালের সমান হয় তখন বস্তুটির যে কম্পন হয় তাকে অনুনাদ বলে। সকল অনুনাদই পরবশ কম্পন। অনুনাদী কম্পনে বিস্তার সবচাইতে বেশি।</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>একটি প্রয়োবাহী যন্ত্রের ক্ষুদ্র ও বৃহৎ চাপ দন্ডের ব্যাস যথাক্রমে ৪ সেমি. এবং 10 সেমি. 1200 কিলোগ্রাম ওজনের একটি বল ক্ষুদ্র চাপ দন্ডে ক্রিয়া করলে বৃহৎ চাপ দন্ডে চাপ বাড়বে -</span></p>",
+    "A": "<p>1250 কিলোগ্রাম ওজন</p>",
+    "B": "<p>1200 গ্রাম ওজন</p>",
+    "C": "<p>1050 কিলোগ্রাম ওজন</p>",
+    "D": "<p>20000 কিলোগ্রাম ওজন</p>",
+    "solution": "<p>চাপ হল বল / ক্ষেত্রফল।</p><p>ক্ষুদ্র চাপ দন্ডের ব্যাস 4 সেমি, তাই বৃহৎ চাপ দন্ডের ব্যাসের দ্বিগুণ।</p><p>অতএব, বৃহৎ চাপ দন্ডের ক্ষেত্রফল ক্ষুদ্র চাপ দন্ডের ক্ষেত্রফলের অর্ধেক।</p><p>ক্ষুদ্র চাপ দন্ডের ক্ষেত্রফল হল:</p><p>πr^2</p><p>= π(2)^2</p><p>= 4π</p><p>বৃহৎ চাপ দন্ডের ক্ষেত্রফল হল:</p><p>πr^2</p><p>= π(1)^2</p><p>= π</p><p>1200 কিলোগ্রাম ওজনের বল ক্ষুদ্র চাপ দন্ডে ক্রিয়া করলে, ক্ষুদ্র চাপ দন্ডের চাপ হল:</p><p>P1 = F/A1</p><p>= 1200/4π</p><p>= 300π</p><p>অতএব, বৃহৎ চাপ দন্ডের চাপ হল:</p><p>P2 = F/A2</p><p>= 1200/π</p><p>= 1200</p><p>সুতরাং, বৃহৎ চাপ দন্ডে চাপ বাড়বে 1200 কিলোগ্রাম।</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>তরঙ্গ কত প্রকার? </span></p>",
+    "A": "<p>২</p>",
+    "B": "<p>৩</p>",
+    "C": "<p>৪</p>",
+    "D": "<p>৫</p>",
+    "solution": "<p> তরঙ্গ ২ প্রকার। যথা :</p><p>i. আড় বা অনুপ্রস্থ</p><p>ii. লম্বিক বা অনুদৈর্ঘ্য</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>একটি অগ্রগামী তরঙ্গের সমীকরণ হলো y = 5 sin (4t -1.57x), এখানে সকল S.I এককে দেওয়া আছে। তরঙ্গটির শব্দের কৌনিক কম্পাংক  বের কর।</p>",
+    "A": "<p>2 ms<sup>-1</sup></p>",
+    "B": "<p>4 ms<sup>-1</sup></p>",
+    "C": "<p>6 ms<sup>-1</sup></p>",
+    "D": "<p>8 ms<sup>-1</sup></p>",
+    "solution": "<p></p><p>\\( \\begin{array}{l}\\text { } y=5 \\sin (2 \\pi f t-1.57 x)=5 \\sin (4 t-x) \\\\ y=A \\sin (v t-x) \\therefore v=4\\end{array} \\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি অ্যামপ্লিফায়ারের থেকে নিঃসৃত শব্দের ক্ষমতা 10 mW থেকে 20 mW-এ পরিবর্তিত হলে শব্দের তীব্রতা লেভেল কত পরিবর্তন হবে?</p><p>[Log<sub>10</sub>2=0.3]<br></p>",
+    "A": "<p>0.3 dB</p>",
+    "B": "<p>1 dB</p>",
+    "C": "<p>2 dB</p>",
+    "D": "<p>3 dB</p>",
+    "solution": "",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>কোন শ্রেণিকক্ষে শব্দের তীব্রতা 10<sup>-7 </sup>w.m<sup>-2</sup>। শব্দের তীব্রতা দ্বিগুণ হলে নতুন <span>তীব্রতা লেভেল কত হবে ?</span></span></p>",
+    "A": "<p>27.65dB</p>",
+    "B": "<p>33.91dB</p>",
+    "C": "<p>43.06 dB</p>",
+    "D": "<p>53.01dB</p>",
+    "solution": "",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>একটি সনোমিটারের তার 200 কম্পাংক যুক্ত একটি টিউনিং ফরকের সাথে ঐকতানে থাকেভ তারের টান ঠিক রেখে সনোমিটারের তারের দৈর্ঘ্য 1% বাড়লে প্রতি সেকেন্ডে কয়টি বিট শোনা যায়?</p>",
+    "A": "<p>1 টি</p>",
+    "B": "<p>2 টি</p>",
+    "C": "<p>3টি </p>",
+    "D": "<p>4টি</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>যখন আলো প্রতিসৃত হয়, তখন নিম্নের কোনটি পরিবর্তিত হয় না?</p>",
+    "A": "<p>তরঙ্গদৈর্ঘ্য</p>",
+    "B": "<p>কম্পাঙ্ক</p>",
+    "C": "<p>বেগ</p>",
+    "D": "বিস্তার",
+    "solution": "<p></p>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p><span>একটি বাজারে উপস্থিত মানুষের সংখ্যা দ্বিগুণ বৃদ্ধি পেলে,  শব্দের তীব্রতা কতটুকু বৃদ্ধি পাবে ?  </span></p>",
+    "A": "<p>2 dB</p>",
+    "B": "<p>3 dB</p>",
+    "C": "<p>4 dB</p>",
+    "D": "<p>6 dB </p>",
+    "solution": "<p>\\( \\begin{aligned} B_{L}-B_{1} &amp; =10 \\log _{10} \\frac{I_{2}}{I_{1}} \\\\ &amp; =10 \\log _{10} \\frac{2 I_{1}}{I_{1}}=3 \\mathrm{~dB}\\end{aligned} \\)</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি তরঙ্গের দুটি কণা 0.15মি. ব্যবধানে অবস্থিত। কণাদ্বয়ের মধ্যে দশা পার্থক্য 1.57 রেডিয়ান। তরঙ্গ উৎসের কম্পাঙ্ক 770Hz হলে তরঙ্গের বেগ নির্ণয় কর।</p>",
+    "A": "<p>329 ms<sup>-1</sup></p>",
+    "B": "<p>462 ms<sup>-1</sup></p>",
+    "C": "<p>275 ms<sup>-1</sup></p>",
+    "D": "<p>658 ms<sup>-1</sup></p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>শ্রবণো</span><span>ত্তর শব্দের ব্যবহারিক প্রয়োগ নয় কোনটি? </span></p>",
+    "A": "<p>সমুদ্রের গভীরতা নির্ণয়ে </p>",
+    "B": "<p>গতি বৃদ্ধিতে </p>",
+    "C": "<p>জীবাণু ধ্বংসে</p>",
+    "D": "<p>দ্রাব্যতা বাড়াতে </p>",
+    "solution": "<p>শ্রবনোত্তর শব্দের ব্যবহার গুলো নিম্মরপ:</p><p>i. সমুদ্রের গভীরতা নির্ণয়ে।</p><p>ii. জীবাগু ধ্বংসে এবং দ্রাবকের দ্রাব্যতা বাড়াতে।</p><p>iii. ডুবোজাহাজের অবস্থান নির্ণয়ে।</p><p>iv. পোতাশ্রয়ের মুখ থেকে জাহাজকে পথ প্রদর্শন।</p><p>v. পাহাড়ের অবস্থান নির্ণয় এবং সুক্ম যন্ত্রপাতি পরিষ্কারে।</p><p>vi. বাদুড়ের চলা এবং অসুস্থ ব্যক্তির আক্রান্ত অঙ্গের ছবি তোলা।</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>স্পর্শকোণ কিসের উপর নির্ভর করে ?</p>",
+    "A": "<p>কঠিন ও তরলের প্রকৃতি </p>",
+    "B": "<p>তরলের উপরিস্থিত মাধ্যম</p>",
+    "C": "<p>কঠিন ও তরলের বিশুদ্ধতা</p>",
+    "D": "<p>সবগুলো</p>",
+    "solution": "<h2>তরলের মুক্ততলের উপরস্থ মাধ্যমের উপর। যেমন পারদের উপর বায়ু থাকলে পারদ ও কাচের স্পর্শ কোণ যা হবে পারদের উপর পানি থাকলে স্পর্শ কোণ তা থেকে আলাদা হবে।</h2>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>টানা তারের আড় কম্পাঙ্কের সূত্রের বেলায় কোনটি সঠিক নয়?</span></p>",
+    "A": "<p>কোন কম্পমান তারের টান T এবং প্রতি একক দৈর্ঘ্যের ভর m স্থির থাকলে তারের কম্পাঙ্ক n উহার দৈর্ঘ্যের ব্যস্তানুপাতিক</p>",
+    "B": "<p>কোন কম্পমান তারের দৈর্ঘ্য l এবং প্রতি দৈর্ঘ্যের ভর m অপরিবর্তিত থাকলে তাদের  কম্পাঙ্ক ন ও হার টান T এর বর্গের সমানুপাতে পরিবর্তিত</p>",
+    "C": "<p>কোন কম্পমান তারের দৈর্ঘ্য l এবং টান T স্থির থাকলে তারের কম্পাঙ্ক n ওহার একক দৈর্ঘ্যের ভর m এর ব্যস্তানুপাতিক হবে</p>",
+    "D": "<p>কোন কম্পমান তারের দৈর্ঘ্য l এবং টান T এবং ঘনত্ব p স্থির থাকলে তারের কম্পাঙ্ক উহার ব্যাসার্ধ r এর সমানুপাতিক হবে</p>",
+    "solution": "<p>আমরা জানি, টানা তারের আড় কম্পনের কম্পাঙ্ক, \\( n=\\frac{1}{2 l} \\sqrt{\\frac{\\mathrm{T}}{\\mathrm{m}}}= \\)\\( \\frac{1}{2 l \\mathrm{r}} \\sqrt{\\frac{\\mathrm{T}}{\\pi \\rho}} \\)</p><p>সুতরাং অপশন C, D সত্য নয়।</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>উৎস থেকে দূরত্বের সাথে শব্দের তীব্রতার সম্পর্ক কোনটি ?</span></p>",
+    "A": "<p><em>I </em>∝ r<sup>2</sup></p>",
+    "B": "<p><em>I </em><em>∝ r</em></p>",
+    "C": " \\( I \\propto \\frac{1}{r^{2}}  \\) ",
+    "D": " \\( r \\propto \\frac{1}{I^{2}}  \\) ",
+    "solution": "<p></p><p>\\( \\mathrm{I}=\\frac{\\mathrm{P}}{4 \\pi r^{2}} \\)</p><p>\n\n</p><p>সুতরাং, নির্দিষ্ট উৎসের ক্ষেত্রে \\( \\mathrm{I} \\propto \\frac{1}{r^{2}} \\) । অতএব ব্যস্তবর্গীয় সূত্র প্রমাণিত হলো।</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>একটি মাধ্যমে 600 Hz ও 400 Hz কম্পাঙ্কের দুটি শব্দ তরঙ্গের তরঙ্গদৈর্ঘ্যের পার্থক্য 1m হলে ঐ মাধ্যমে শন্দের বেগ কত ? </span></p>",
+    "A": "<p>1.2 × 10<sup>2</sup> m/s</p>",
+    "B": "<p>1.2 ×10<sup>3</sup> m/s</p>",
+    "C": "<p>2.4 ×10<sup>2</sup> m/s</p>",
+    "D": "<p>1.9 × 10<sup>2</sup> m/s</p>",
+    "solution": "<p></p><p>\\( \\begin{array}{l} f_{1}=600 \\mathrm{~Hz} \\\\ f_{2}=400 \\mathrm{~Hz} \\\\ \\lambda_{2}-\\lambda_{1}=1 \\mathrm{~m} \\end{array} \\)</p><p>বা</p><p>\\( \\begin{array}{l} \\lambda_{2}=1+\\lambda_{1} \\\\ \\therefore V=1.2 \\times 10^{3} \\mathrm{~ms}^{1} \\end{array} \\)</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি নিস্পন্দ বিন্দু (Node) ও সংলগ্ন সুস্পন্দ বিন্দুর (Antinode) মধ্যবর্তী দূরত্ব-</p>",
+    "A": "<p>λ/4</p>",
+    "B": "<p>λ</p>",
+    "C": "<p>2λ</p>",
+    "D": "<p>λ/2</p>",
+    "solution": "<p>একটি সুস্পন্দ ও একটি নিস্পন্দ বিন্দুর দূরত্ব =\\(\\frac{\\lambda}{4}\\)</p><p></p><p></p>",
+    "answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>A small mass lying at the top of a smooth convex hemisphere is just pushed horizontally. The angle with the vertical where it looses contact with surface is:</p>\n",
+    "A": "<p>\\(tan^{-1}(\\dfrac{2}{3})\\)</p>",
+    "B": "<p>\\(sin^{-1}(\\dfrac{2}{3})\\)</p>",
+    "C": "<p>\\(cos^{-1}(\\dfrac{2}{3})\\)</p>",
+    "D": "<p>\\(cot^{-1}(\\dfrac{2}{3})\\)</p>",
+    "solution": "<p>At point of loosing contact, mass will still be in circular motion. Gravity is responsible for it.</p>\n<p>Conservation of energy</p>\n<p>0+0\\(=\\dfrac{1}{2}mv^{2}-mgR(1-cos\\theta)\\) </p>\n<p>\\(v=\\sqrt{2gR(1-cos\\theta)}\\)<div>At any instant partical looses contact ,the normal reaction on it becomes zero,</p>\n<p>\\(mg cos\\theta = \\dfrac{mv^{2}}{R.}\\)</p>\n<p>\\(g cos\\theta =2g(1-cos\\theta)\\);  \\(cos\\theta = 2-2cos\\theta\\)</p>\n<p>\\( \\theta =cos^{-1}\\left ( \\dfrac{2}{3} \\right ).\\)</p>\n\n\n\n<p></div></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>একটি টানা তারে আড় তরঙ্গের বেগ 1500ms\\(^{-1}\\) । টান একই থাকলে তিনগুণ বড় ব্যাসার্ধ বিশিষ্ট একই উপাদানে তৈরী তারে তরঙ্গের বেগ কত ms\\(^{-1}\\)?</p>",
+    "A": "<p>500</p>",
+    "B": "<p>300</p>",
+    "C": "<p>750</p>",
+    "D": "<p>850</p>",
+    "solution": "<p> \\( v=\\sqrt{\\frac{\\mathrm{T}}{\\mu}} ; \\mu=\\frac{\\mathrm{m}}{\\ell}=\\frac{\\pi \\mathrm{r}^{2} \\ell \\rho}{\\ell}=\\pi \\mathrm{r}^{2} \\rho \\)</p><p>\\( \\begin{array}{l} \\therefore \\mathrm{v} \\propto \\frac{1}{\\mathrm{r}} \\Rightarrow \\mathrm{v}_{1} \\mathrm{r}_{1}=\\mathrm{v}_{2} \\mathrm{r}_{2} \\Rightarrow 1500 \\times \\mathrm{r}_{1}=\\mathrm{v}_{2} \\times 3 \\mathrm{r}_{1}\\left[\\mathrm{r}_{2}=3 \\mathrm{r}_{1}\\right] \\\\ \\therefore \\mathrm{v}_{2}=500 \\mathrm{~ms}^{-1} \\end{array} \\)</p>",
+    "answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>1 mm<sup>2</sup>প্রস্থচ্ছেদ বিশিষ্ট একটি ইস্পাতের তারের দৈর্ঘ্য 5% বৃদ্ধি করতে যে পরিমাণ বল প্রয়োগ করতে হবে - (ইস্পাতের তারের ইয়ং এর গুণাঙ্ক=2 ×1011Nm<sup>-2</sup>)&nbsp;</p>",
+    "A": "<p>12000 N </p>",
+    "B": "<p>10000 N</p>",
+    "C": "<p>11360 N </p>",
+    "D": "<p>None </p>",
+    "solution": "<p></p><p>\\( \\begin{array}{c}\\mathrm{Y}=\\frac{\\text { stress }}{\\text { strain }}=\\frac{\\text { পীড়ন }}{\\text { বिকৃতি }} \\\\ \\text { পীড়ন }=\\mathrm{Y} \\times \\text { বিকৃতি }=2 \\times 10^{11} \\times \\frac{5}{100}=1 \\times 10^{10} \\mathrm{Nm}^{2} \\\\ \\therefore \\mathrm{F}=\\text { পীড়ন } \\times \\mathrm{A}=1 \\times 10^{10} \\times 10^{-6}=10^{4} \\mathrm{~N}\\end{array} \\)</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>নির্দিষ্ট একটি টানা তার 1000Hz কম্পাঙ্ক সৃষ্টি করে । যদি একই তার উপরিউক্ত কম্পাঙ্কের দ্বিগুন কম্পাঙ্ক সৃষ্টি করে, তাহলে তারের টান হবে -</p>",
+    "A": "<p>দ্বিগুন</p>",
+    "B": "<p>চারগুন</p>",
+    "C": "<p>অর্ধেক</p>",
+    "D": "<p>এক-চতুর্থাংশ</p>",
+    "solution": "<p></p><p></p><p>একটি টানা তারে টানের পরিমাণ 4 গুণ বৃদ্ধি করলে কম্পাঙ্ক 2 গুণ বৃদ্ধি পাবে।</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>Which of the following statement is correct about conversion of units, for example \\(1 m = 100 cm\\)</p>",
+    "A": "<p>Conversion of units have  identical dimensions on each side of the equal sign but not the same units.</p>",
+    "B": "<p>Conversion of units have identical dimensions on each side of the equal sign and the same units.</p>",
+    "C": "<p>If a larger unit is used  then numerical value of physical quantity is large</p>",
+    "D": "<p>Due to conversion of units physical quantity to be measured will change.</p>",
+    "solution": "<p>(A) When we convert the units</p><p>eg: \\( \\quad 1 m=100 \\mathrm{~cm}=1000 \\mathrm{~mm} \\)</p><p>all \\( m, \\mathrm{~cm}, \\mathrm{~mm} \\) has the dimension of length [L]</p><p>\\( \\therefore \\) option (A) is correct.</p><p></p><p>(c) eg: \\( 1 \\mathrm{~km}=1000 \\mathrm{~m} \\).</p><p>Here \\( \\mathrm{km} \\) is the larger unit; but its. numerical value is \\( 1&lt;1000 \\)</p><p>\\( \\therefore \\) option (C) is incorrect.</p><p></p><p>(D). As dimensions donot change during unit conversion, physical quantity measured donot change.</p><p>eg: \\( \\quad l \\mathrm{~kg}=1000 \\mathrm{~g} \\).</p><p>Both \\( \\mathrm{kg} \\) and \\( \\mathrm{g} \\) are units of mass.</p><p>\\( \\therefore \\) option (D) is incorrect</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>শ্রেণিকক্ষের শব্দের তীব্রতা লেভেল কত?</p>",
+    "A": "<p>70 dB</p>",
+    "B": "<p>50 dB</p>",
+    "C": "<p>10 dB</p>",
+    "D": "<p>90 dB</p>",
+    "solution": "<p>50 dB</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p class=\"MsoNormal\"><span style=\"font-family: Vrinda;\">নিচের কোন সম্পর্কটি সঠিক?<o:p></o:p></span></p>",
+    "A": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mi>L</mi><mo>⃗</mo></mover><mo>=</mo><mover accent=\"true\"><mi>r</mi><mo>⃗</mo></mover><mo>×</mo><mover accent=\"true\"><mi>F</mi><mo>⃗</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\vec{L}=\\vec{r}\\times\\vec{F}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\">L</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.2077em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7973em; vertical-align: -0.0833em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.714em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">r</span></span><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1799em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1522em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "B": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mi>L</mi><mo>⃗</mo></mover><mo>=</mo><mover accent=\"true\"><mi>F</mi><mo>⃗</mo></mover><mo>×</mo><mover accent=\"true\"><mi>r</mi><mo>⃗</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\vec{L}=\\vec{F}\\times\\vec{r}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\">L</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.2077em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0497em; vertical-align: -0.0833em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1522em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.714em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.714em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">r</span></span><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1799em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "C": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mi>L</mi><mo>⃗</mo></mover><mo>=</mo><mover accent=\"true\"><mi>r</mi><mo>⃗</mo></mover><mo>×</mo><mover accent=\"true\"><mi>P</mi><mo>⃗</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\vec{L}=\\vec{r}\\times\\vec{P}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\">L</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.2077em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7973em; vertical-align: -0.0833em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.714em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">r</span></span><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1799em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1522em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "D": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mi>L</mi><mo>⃗</mo></mover><mo>=</mo><mover accent=\"true\"><mi>P</mi><mo>⃗</mo></mover><mo>×</mo><mover accent=\"true\"><mi>r</mi><mo>⃗</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\vec{L}=\\vec{P}\\times\\vec{r}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9663em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\">L</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.2077em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0497em; vertical-align: -0.0833em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9663em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span></span><span style=\"top: -3.2523em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1522em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.714em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.714em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">r</span></span><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.1799em;\"><span class=\"overlay\" style=\"height: 0.714em; width: 0.471em;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"0.471em\" height=\"0.714em\" style=\"width: 0.471em;\" viewBox=\"0 0 471 714\" preserveAspectRatio=\"xMinYMin\"><path d=\"M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5\n3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11\n10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63\n-1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1\n-7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59\nH213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359\nc-16-25.333-24-45-24-59z\"></path></svg></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "solution": "<p></p><p>\\( \\begin{aligned} \\vec{L} &amp; =\\vec{r} \\times \\vec{p} \\\\ &amp; =\\vec{r} \\times(m \\vec{V})\\end{aligned} \\)</p><p></p>",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>একটি এসি উৎসের বিস্তার 220V এবং কম্পাঙ্ক 50Hz। উৎসের সাথে 220Ω রোধ যুক্ত করা হলে নিচের কোনটি সঠিক নয়?</p>",
+    "A": "<p>i=0.637A</p>",
+    "B": " \\( i_{0} = 1 A  \\) ",
+    "C": "<p>i=sin314t</p>",
+    "D": "<p>\\( i_{\\max} = 3.11 A \\)</p>",
+    "solution": "<p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>\\( \\vec{a}=\\hat{i}+2 \\hat{j}-3 \\hat{k} \\) এবং \\( \\vec{b}=3 \\hat{i}-\\hat{j}+2 \\hat{k} \\) হলে নিম্নের কোনটি সত্য?</p>",
+    "A": "<p>\\( \\underset{a .}{\\rightarrow} \\underset{b}{\\rightarrow} = 0 \\)</p>",
+    "B": "<p>\\( \\underset{a}{\\rightarrow} \\land \\underset{b}{\\rightarrow} = 0 \\)</p>",
+    "C": "<p>\\( \\left(\\right. \\underset{a}{\\rightarrow} + \\underset{b}{\\rightarrow} \\left.\\right) . \\left(\\right. \\underset{a}{\\rightarrow} - \\underset{b}{\\rightarrow} \\left.\\right) = 0 \\)</p>",
+    "D": "<p>\\( \\left(\\right. \\underset{a}{\\rightarrow} + \\underset{b}{\\rightarrow} \\left.\\right) \\land \\left(\\right. \\underset{a}{\\rightarrow} - \\underset{b}{\\rightarrow} \\left.\\right) \\)</p>",
+    "solution": null,
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>10kg একটি ভরের বস্তুু 9.81উচ্চতা হতে পতিত হয়ে মাটির মধ্যে 1.962 মিটার প্রবেশ করে সুস্থির হয়ে। মাটির প্রতিরোধ বলের মান কত?</span></p>",
+    "A": "<p>588.60 N</p>",
+    "B": "<p>98.30 N</p>",
+    "C": "<p>2452.50 N</p>",
+    "D": "<p>4905 N</p>",
+    "solution": "<p>\\( \\mathrm{mg}(\\mathrm{h}+\\mathrm{x})=\\mathrm{Fx} \\Rightarrow 10 \\times 9.81 \\times(9.81+1.962)=\\mathrm{F} \\times 1.962 \\Rightarrow \\mathrm{F}=588.6 \\mathrm{~N} \\)</p>",
+    "answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>1 mm ব্যাসের একটি কৈশিক নল 4°C তাপমাত্রার বিশুদ্ধ পানির মধ্যে ডুবানো হলে নলের ভিতর পানির উচ্চতা হয় 3 cm । &nbsp;পানির পৃষ্ঠটান কত ? &nbsp;</p>",
+    "A": "<p>14.70×10<sup>-2</sup> Nm<sup>-1</sup></p>",
+    "B": "<p>0.1740 Nm<sup>-1</sup></p>",
+    "C": "<p>7.35 ×10<sup>-2</sup> Nm<sup>-1</sup></p>",
+    "D": "<p>0.1407 Nm<sup>-1</sup></p>",
+    "solution": "<p>T=rh<span><em>ρg/2=(1/1000)*(3/100)*9.8×1000/2=7.35×10^-2</em></span></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<pre><code>সান্দ্রতার সহগের মাত্রা কোনটি?&nbsp;</code></pre>",
+    "A": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>M</mi><mi>L</mi><msup><mi>T</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><annotation encoding=\"application/x-tex\">MLT^{-1}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.10903em;\">M</span><span class=\"mord mathnormal\">L</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">T</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">−</span><span class=\"mord mtight\">1</span></span></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "B": "<p>\\(ML^{-1}T^{ }\\)</p>",
+    "C": "<p>\\(ML^{-1}T^{-1}\\)</p>",
+    "D": "<p>\\(M^{-1}LT^{-1 }\\)</p>",
+    "solution": "<pre><code>সান্দ্রতার সহগের মাত্রা \\(M^{-1}LT^{-1 }\\)</code></pre>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>যখন \\( r_{1} \\) and \\( r_{2}\\left(r_{2}&gt;r_{1}\\right) \\) ব্যাসার্ধের দুটি সাবান বুদবুদ একত্রিত হয়, তখন সাধারণ পৃষ্ঠের বক্রতার ব্যাসার্ধ কত ?</p><p></p>",
+    "A": "<p>\\( \\left(r_{2}-r_{1}\\right) \\) </p>",
+    "B": "<p>\\( \\left(r_{2}+r_{1}\\right) \\) </p>",
+    "C": "<p>\\( \\frac{r_{2}-r_{1}}{r_{1} r_{2}} \\) </p>",
+    "D": "<p>\\( \\frac{r_{2} r_{1}}{r_{2}-r_{1}} \\) </p>",
+    "solution": "<p>Solve:The excess of pressure inside the first bubble of radius \\( r_{1} \\) is \\( p_{1}=4 \\mathrm{~S} / r_{1} \\) and in the second bubble of radius \\( r_{2} \\) is \\( p_{2}=4 S / r_{2} \\).</p>\n<p>\\( \\therefore \\) Excess pressure, \\( p=\\frac{4 S}{r}=\\frac{4 S}{r_{1}}-\\frac{4 S}{r_{2}} \\)</p>\n<p>\\( \\Rightarrow \\quad \\frac{1}{r}=\\frac{r_{2}-r_{1}}{r_{1} r_{2}} \\)</p>\n<p>\\( \\Rightarrow \\quad r=\\frac{r_{1} r_{2}}{r_{2}-r_{1}} \\)</p>\n\n",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>শব্দের সর্বোচ্চ কত তীব্রতা মানুষের কর্ণ সহ্য করতে পারে?</p>",
+    "A": "<p>200 dB</p>",
+    "B": "<p>180 dB</p>",
+    "C": "<p>80 dB</p>",
+    "D": "<p>120 dB</p>",
+    "solution": "<p>শব্দের সর্বোচ্চ 120 dB তীব্রতা মানুষের কর্ণ সহ্য করতে পারে।</p>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>ভূমিকম্পের ফলে সৃষ্ট তরঙ্গ হল-</p>",
+    "A": "<p>আড় তরঙ্গ</p>",
+    "B": "<p>লম্বিক তরঙ্গ</p>",
+    "C": "<p>আড় ও লম্বিক তরঙ্গের মিশ্রণ</p>",
+    "D": "<p>কোনটিই নয়</p>",
+    "solution": "<p>ভূমিকম্পের ফলে ভূগর্ভের বিভিন্ন বস্তু সংকোচিত অথবা প্রসারিত হয়। এর ফলে লম্বিক তরঙ্গ সৃষ্টি হয়। </p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>বায়ুর সংস্পর্শে 20°সেলসিয়াস তাপমাত্রায় পানির তলটান কত হবে?</p>",
+    "A": "<p>ক. 7.35dye/cm</p>",
+    "B": "<p>খ. 73.5dyne/cm</p>",
+    "C": "<p>গ. 7.35Nm</p>",
+    "D": "<p>ঘ. &nbsp;7.35×10<sup>-2</sup>Nm-1&nbsp;</p>",
+    "solution": "<p>T=<span>7.35×10</span><sup>-2</sup><span>Nm-1&nbsp;</span></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>A small ferryboat is 4.00 m wide and 6.00 m long. When a <span>loaded truck pulls onto it, the boat sinks an additional 4.00.cm into the river. What is the weight of the truck?\"</span></span></p>",
+    "A": "<p>9.25kN</p>",
+    "B": "<p>8.56kN</p>",
+    "C": "<p>7.41kN</p>",
+    "D": "<p>9.41kN</p>",
+    "solution": "<p></p><p>\\( \\begin{aligned} \\mathrm{W}_{\\text {truck }} &amp; =\\rho_{\\text {water }} \\Delta \\mathrm{V} \\\\ &amp; =10^{3} \\times 4 \\times 6 \\times 4 \\times 10^{-2} \\times 9.80 \\\\ &amp; =9.41 \\times 10^{3} \\mathrm{kN} \\end{aligned} \\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>টানা তারে স্থির তরঙ্গ উৎপন্ন হওয়ার কারণ কোনটি?</span></p>",
+    "A": "<p>ব্যতিচার </p>",
+    "B": "<p>স্বরকম্প</p>",
+    "C": "<p>অনুনাদ</p>",
+    "D": "<p>মেলডি</p>",
+    "solution": "<p> টানা তারে স্থির তরঙ্গ উৎপন্ন হওয়ার কারন ব্যতিচার।</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>A man whose weight is 0.80KN is standing upright . How much his thighbone shortened compared to when he is lying down. The length of his thighbone when lying is 43.0 cm and the area of the thighbone is 8.0  cm [ Young's modulus of the thighbone Y = 9.4×10<sup>9</sup> Pa ]  </span></p>",
+    "A": "<p>2.29 × 10<sup>-3</sup> cm</p>",
+    "B": "<p>3.29× 10<sup>-3</sup> cm</p>",
+    "C": "<p>1.29×10<sup>-3</sup> cm</p>",
+    "D": "<p>4.57× 10<sup>-3</sup> cm</p>",
+    "solution": "<p>Solution: (a); \\( L=\\frac{43}{2}=21.5 \\mathrm{~cm} ; \\mathrm{l}=\\frac{\\mathrm{FL}}{\\mathrm{YA}}=2.29 \\times 10^{-3} \\mathrm{~cm} \\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>A hole is drilled from the surface of earth to its centre. A particle is dropped from rest at the surface of earth. The speed of the particle when it reaches the centre of the earth in terms of its escape velocity on the surface of earth \\(v_{e}\\) is :</p>",
+    "A": "<p>\\(\\dfrac {v_{e}}{2}\\)</p>",
+    "B": "<p>\\(v_{e}\\)</p>",
+    "C": "<p>\\(\\sqrt {2}v_{e}\\)</p>",
+    "D": "<p>\\(\\dfrac {v_{e}}{\\sqrt {2}}\\)</p>",
+    "solution": "<p>Lets \\(m=\\) mass of the particle</p><p>\\(M=\\) mass of the earth</p><p>\\(R=\\) radius of the earth</p><p>\\(v=\\) speed of particle when it reaches the center of the earth</p><p>applying conservation of total energy,</p><p></p><p>\\((K.E)_1+(P.E)_1=(K.E)_2+(P.E)_2\\)</p><p></p><p></p><p>\\(0+(-\\dfrac{GMm}{R})=\\dfrac{1}{2}mv^2+(-\\dfrac{3GMm}{2R})\\)</p><p></p><p></p><p>\\(-\\dfrac{GM}{R}+\\dfrac{3GM}{2R}=\\dfrac{1}{2}v^2\\)</p><p></p><p></p><p>\\(v^2=\\dfrac{GM}{R}\\)</p><p></p><p></p><p>\\(v=\\sqrt{\\dfrac{GM}{R}}\\). . . . (1)</p><p>We know that the escape velocity of the particle from the earth is given by,</p><p>\\(v_e=\\sqrt{\\dfrac{2GM}{R}}\\). . . . .(2)</p><p></p><p>\\(v_e=\\sqrt{2}\\sqrt{\\dfrac{GM}{R}}\\)</p><p></p><p>\\(v_e=\\sqrt{2} v\\) (from equation 1)</p><p></p><p>\\(v=\\dfrac{v_e}{\\sqrt{2}}\\)</p><p></p><p>The correct option is D.</p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>Which of the following is correct?</span></p>",
+    "A": "<p>The application of the conditions of the equilibrium of the body is valid only in the 2D</p>",
+    "B": "<p>The application of the conditions of the equilibrium of the body is valid only in the 3D</p>",
+    "C": "<p>The application of the conditions of the equilibrium of the body is valid only in the 1D</p>",
+    "D": "<p>The application of the conditions of the equilibrium of the body is valid throughout</p>",
+    "solution": "<p><span>The application of the conditions of the equilibrium of the body is valid throughout. This means that the conditions are irrespective of the dimensions. The conditions are the basic rules that defines the equilibrium of the body and thus are applicable in any dimension of the real axis.</span></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>Acceleration due to gravity is '\\(g\\)' on the surface of the earth. The value of acceleration due to gravity at a height of \\(32 \\ km\\) above earth's surface is (Radius of the earth \\(=6400 \\ km\\))</p>",
+    "A": "<p>\\(0.9 \\ g\\)</p>",
+    "B": "<p>\\(0.99 \\ g\\)</p>",
+    "C": "<p>\\(0.8 \\ g\\)</p>",
+    "D": "<p>\\(1.01 \\ g\\)</p>",
+    "solution": "<p><span>\\(h= 32 \\ km, R=6400 \\ km, \\) so \\(h&lt;&lt;R\\)</span></p>\n<p><span></p>\n<p></span><div><span>\\(g'= g\\bigg( 1- \\dfrac{2h}{R} \\bigg) = g \\bigg(1- \\dfrac{2 \\times 32}{6400} \\bigg) \\)</span></div><div><span></p>\n<p></span></div><div><span>\\(\\implies g'= \\dfrac{99}{100} g= 0.99 \\ g\\)</span></div></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>A car of mass 1.5 ton is pushed horizontally from the edge of a cliff of height 500m. 1 of the car is 15 ms at the edge, find the time it hits the ground.</p>",
+    "A": "<p>8.69s</p>",
+    "B": "<p>10.10s</p>",
+    "C": "<p>6.42s</p>",
+    "D": "<p>7.5s</p>",
+    "solution": "<p>\\( h=\\frac{1}{2} \\mathrm{gt}^{2} \\Rightarrow t=\\sqrt{\\frac{2 h}{g}} \\Rightarrow t=\\sqrt{\\frac{2 \\times 500}{9.8}} \\therefore t=10.10 \\mathrm{sec} \\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>নিচের কোন তথ্যটি শব্দ তরঙ্গের জন্য প্রযোজ্য নয়?</p>",
+    "A": "<p>শ্রাব্যতার ন্যূনতম সূচনাসীমা \\(1\\times10^{-12}W\\left(0dB\\right)\\)</p>",
+    "B": "<p>শব্দের বেগ তাপমাত্রার উপর নির্ভর করে</p>",
+    "C": "<p>শব্দ একটি অগ্রগামী দীঘল তরঙ্গ</p>",
+    "D": "<p>শব্দ তরঙ্গ সঞ্চালনের জন্য কোন জড় মাধ্যমের প্রয়োজন হয়না</p>",
+    "solution": "<p>শব্দের বেগ তাপমাত্রার উপর নির্ভর করে না।</p><p>শব্দ তরঙ্গ হল অনুপ্রস্থ তরঙ্গ। অনুপ্রস্থ তরঙ্গ হল তরঙ্গ যেখানে কম্পনের দিক তরঙ্গের গতির দিকের সমান্তরাল। শব্দ তরঙ্গ বাতাস, জল বা অন্য কোন মাধ্যমের অণুগুলির কম্পনের ফলে সৃষ্টি হয়। যখন এই অণুগুলি কম্পিত হয়, তখন তারা তাদের পার্শ্ববর্তী অণুগুলিকে কম্পিত করে, যা একটি তরঙ্গের সৃষ্টি করে। এই তরঙ্গ আমাদের কানে পৌঁছায় এবং আমরা এটিকে শব্দ হিসাবে শুনি।</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span><span>কোনটি সঠিক নয়?</span></span></p>",
+    "A": "<p>যদি একটি কৈশিক নলে কোন তরল, কাঁচকে না ভিজায় তাহলে নলের ভিতর তরল খানিকটা নিচে নেমে গিয়ে উত্তল মেনিস্কাস তৈরী করবে </p>",
+    "B": "<p>একটি বস্তুর স্থির অবস্থা হতে 144 ফুট নিচে পতিত হতে যদি ৩ সেকেন্ড সময় লাগে তবে এই বস্তুটির ত্বরণ হবে 16 ফুট/সে<sup>২</sup></p>",
+    "C": "<p>একটি সরল দোলকের সাহায্যে একটি পাহাড়ের উচ্চতা নির্ণয় করা সম্ভব</p>",
+    "D": "<p>পরম স্কেলকে “Origin shifted” সেলসিয়াস স্কেল হিসাবে গণ্য করা যায় </p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>\\(3ms^{-1}\\)<span>ত্বরণে</span> <span>একটি</span> <span>লিফট</span> <span>নিচের</span> <span>দিকে</span> <span>নামছে।</span> <span>লিফটি</span> <span>যখন</span> <span>ভূমি</span> <span>থেকে</span>&nbsp;\\(13.6m\\)<span>উপরে ছিল</span> <span>তখন</span> <span>একটি</span> <span>বা</span> <span>গিট</span> <span>থেকে</span> <span>ছেড়ে</span> <span>দেয়া</span> <span>হল।</span> <span>ভূমি</span> <span>স্পর্শ</span> <span>করতে</span> <span>লিফটির</span> <span>কত</span> <span>সময়</span> <span>লাগবে</span>?</p>",
+    "A": "<p>1 sec</p>",
+    "B": "<p>2 sec</p>",
+    "C": "<p>3 sec</p>",
+    "D": "<p>4.5 sec</p>",
+    "solution": "<p></p><p>প্রথমে আমরা ভেবে নেই যে, লিফটটি শুরুতে স্থির ছিল এবং ত্বরণে নিচের দিকে গতি করছে।</p><p>\n\n</p><p>লিফটটির ত্বরণ, \\( a = 3 \\, \\text{ms}^{-2} \\)</p><p>\n</p><p>উঁচাই, \\( s = 13.6 \\, \\text{m} \\)</p><p>\n\n</p><p>আমরা <strong>suvat</strong> সমীকরণ ব্যবহার করব: </p><p>\n\n</p><p>\\( s = ut + \\frac{1}{2} a t^2 \\)</p><p>\n\n</p><p>এখানে, প্রারম্ভিক বেগ \\( u = 0 \\) (লিফটটি শুরুতে স্থির ছিল)</p><p>\n\n</p><p>\\( 13.6 = 0 \\times t + \\frac{1}{2} \\times 3 \\times t^2 \\)</p><p>\n\n</p><p>\\( 13.6 = \\frac{3}{2} t^2 \\)</p><p>\n\n</p><p>\\( t^2 = \\frac{13.6 \\times 2}{3} \\)</p><p>\n\n</p><p>\\( t^2 = \\frac{27.2}{3} = 9.0667 \\)</p><p>\n\n</p><p>\\( t = \\sqrt{9.0667} \\)</p><p>\n\n</p><p>\\( t \\approx 3 \\, \\text{seconds} \\)</p><p>\n\n</p><p>সুতরাং, লিফটটির ভূমি স্পর্শ করতে প্রায় ৩ সেকেন্ড সময় লাগবে। সঠিক উত্তরটি হল <strong>3 sec</strong>।</p><p></p>",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>তিনটি সুরশলাকা নেয়া হলো যাদের কম্পাঙ্ক যথাক্রমে 105Hz, 315Hz এবং 525Hz। শলাকা তিনটি দিয়ে বায়ুতে শব্দ সৃষ্টি করলে সৃষ্ট শব্দের তরঙ্গদৈর্ঘ্যের অনুপাত কি হবে?</p>",
+    "A": "<p>1:3:5</p>",
+    "B": "<p>3:5:15</p>",
+    "C": "<p>15:5:3</p>",
+    "D": "<p>5:3:1</p>",
+    "solution": "<p>\\( f \\lambda=\\nu= \\) ধ্রুবক</p><p>\\( \\begin{array}{l}\\Rightarrow \\lambda \\propto \\frac{1}{f} \\\\ \\therefore \\lambda_{1}: \\lambda_{2}: \\lambda_{3}=1: \\frac{1}{3}: \\frac{1}{5}=15: 5: 3\\end{array} \\)</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>50mm ব্যাসের একটি সাবানের বুদবুদের ভেতরে চাপ 4 bar হলে বুদবুদের তলটান কত? </span></p>",
+    "A": "<p> 1250 N/m</p>",
+    "B": "<p>12.50 N/m</p>",
+    "C": "<p>25 N/m</p>",
+    "D": "<p>1000 N/m</p>",
+    "solution": "<p>P=2T/r</p><p>\\(\\  T = ( \\frac {4 \\times 10^{5}\\times 50 }{1000} ) \\) /2= 1000 ( 1bar = 10\\(^5\\) pa)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><mjx-container class=\"MathJax CtxtMenu_Attached_0\" jax=\"CHTML\" ctxtmenu_counter=\"50\" style=\"font-size: 99.9%; position: relative;\" tabindex=\"0\"><mjx-math class=\"MJX-TEX\" aria-hidden=\"true\"><mjx-semantics><mjx-mrow><mjx-mover><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.172em; margin-bottom: -0.531em;\"><mjx-mo class=\"mjx-n\" style=\"width: 0px; margin-left: -0.25em;\"><mjx-c class=\"mjx-c2C6\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D456 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover><mjx-mo class=\"mjx-n\"><mjx-c class=\"mjx-c2C\"></mjx-c></mjx-mo><mjx-mover space=\"2\"><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.206em; margin-bottom: -0.531em;\"><mjx-mo class=\"mjx-n\" style=\"width: 0px; margin-left: -0.25em;\"><mjx-c class=\"mjx-c2C6\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D457 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover><mjx-mo class=\"mjx-n\"><mjx-c class=\"mjx-c2C\"></mjx-c></mjx-mo><mjx-mover space=\"2\"><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.261em; margin-bottom: -0.551em;\"><mjx-mo class=\"mjx-sop\" style=\"width: 0px; margin-left: -0.278em;\"><mjx-c class=\"mjx-c2C6 TEX-S1\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D458 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover></mjx-mrow></mjx-semantics></mjx-math><mjx-assistive-mml unselectable=\"on\" display=\"inline\"><mjx-container class=\"MathJax CtxtMenu_Attached_0\" jax=\"CHTML\" ctxtmenu_counter=\"57\" style=\"font-size: 100%; position: relative;\" tabindex=\"0\"><mjx-math class=\"MJX-TEX\" aria-hidden=\"true\"><mjx-semantics><mjx-mrow><mjx-mover><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.172em; margin-bottom: -0.531em;\"><mjx-mo class=\"mjx-n\" style=\"width: 0px; margin-left: -0.25em;\"><mjx-c class=\"mjx-c2C6\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D456 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover><mjx-mo class=\"mjx-n\"><mjx-c class=\"mjx-c2C\"></mjx-c></mjx-mo><mjx-mover space=\"2\"><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.206em; margin-bottom: -0.531em;\"><mjx-mo class=\"mjx-n\" style=\"width: 0px; margin-left: -0.25em;\"><mjx-c class=\"mjx-c2C6\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D457 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover><mjx-mo class=\"mjx-n\"><mjx-c class=\"mjx-c2C\"></mjx-c></mjx-mo><mjx-mover space=\"2\"><mjx-over style=\"padding-bottom: 0.105em; padding-left: 0.261em; margin-bottom: -0.551em;\"><mjx-mo class=\"mjx-sop\" style=\"width: 0px; margin-left: -0.278em;\"><mjx-c class=\"mjx-c2C6 TEX-S1\"></mjx-c></mjx-mo></mjx-over><mjx-base><mjx-mi class=\"mjx-i\"><mjx-c class=\"mjx-c1D458 TEX-I\"></mjx-c></mjx-mi></mjx-base></mjx-mover></mjx-mrow></mjx-semantics></mjx-math><mjx-assistive-mml unselectable=\"on\" display=\"inline\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo separator=\"true\">,</mo><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover><mo separator=\"true\">,</mo><mover accent=\"true\"><mi>k</mi><mo>^</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\hat{i},\\hat{j},\\hat{k}</annotation></semantics></math></mjx-assistive-mml></mjx-container></mjx-assistive-mml></mjx-container></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.1523em; vertical-align: -0.1944em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.923em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\">i</span></span><span style=\"top: -3.2285em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.25em;\"><span class=\"mord\">^</span></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord accent\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.923em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.05724em;\">j</span></span><span style=\"top: -3.2285em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.25em;\"><span class=\"mord\">^</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1944em;\"><span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord accent\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9579em;\"><span style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.03148em;\">k</span></span><span style=\"top: -3.2634em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"accent-body\" style=\"left: -0.25em;\"><span class=\"mord\">^</span></span></span></span></span></span></span></span></span></span></span>তিনটি একক ভেক্টর নির্দেশ করে।</p>\n<p>উক্ত ভেক্টর তিনটি যদি একটি ত্রিভুজের তিনবাহু একই ক্রমে নির্দেশ করে তাহলে যেকোনো দুইটি ভেক্টরের মধ্যবর্তী কোণ কত?</p>",
+    "A": "<p>30°</p>",
+    "B": "<p>60°</p>",
+    "C": "<p>90°</p>",
+    "D": "<p>120°</p>",
+    "solution": "<p></p>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>একটি স্ফেরোমিটার দ্বারা একটি কাঁচ পাতের পুরুত্ব পরিমাপকালে রৈখিক স্কেলের পাঠ 2 mm, বৃত্তাকার স্কেলের পাঠ 25 এবং পীচ 0.5 mm এ উদ্দীপক থেকে &nbsp;নিচের প্রশ্নের উত্তর দাও:</p><p>কাঁচ পাতের পুরুত্ব কত?</p>",
+    "A": "<p>2.25mm</p>",
+    "B": "<p>2.25cm</p>",
+    "C": "<p>0.225mm</p>",
+    "D": "<p>0.225m</p>",
+    "solution": "<ul><li><p></p></li></ul>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>নিচের কোনটি তাড়িত চৌম্বক তরঙ্গে বর্ণালীতে রঙের সঠিক ক্রম?</p>",
+    "A": "<p>Red-yellow-indigo-green-blue-violet</p>",
+    "B": "<p>Red-yellow- indigo-green- blue-violet</p>",
+    "C": "<p>Violet-blue-Indigo-green-yellow-orange-red</p>",
+    "D": "<p>Violet-Indigo-blue-green-yellow-orange-red</p>",
+    "solution": "<p>তাড়িত চৌম্বক তরঙ্গে বর্ণালীতে রঙের সঠিক ক্রম: Violet-Indigo-Blue-Green-Yellow-Orange-Red</p>",
+    "answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>আলোক বেঞ্চে কোন ত্রুটি দেখা যায়?</p>",
+    "A": "<p>লেভেল ত্রুটি</p>",
+    "B": "<p>পিছট ত্রুটি</p>",
+    "C": "<p>স্ক্রিন ত্রুটি</p>",
+    "D": "<p> কোনো ত্রুটি নেই</p>",
+    "solution": "<p>আলোক বেঞ্চে দেখা দেওয়া ত্রুটিগুলোর মধ্যে সঠিক উত্তর হলো:</p><p><span>ক: লেভেল ত্রুটি</span></p><p>আলোক বেঞ্চে লেভেল ত্রুটি হতে পারে, যা আলোকের গতিপথকে প্রভাবিত করতে পারে। </p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>কোন উক্তটি সত্য নয়?&nbsp;</p>",
+    "A": "<p>স্কেলার রাশির যোগ, বিয়োগ, গুন ইত্যাদি সাধারণ গণিতের নিয়মানুসারে হয়।</p>",
+    "B": "<p>কোন শব্দের মধ্যে যদি একাধিক কম্পাংক থাকে তাহলে সেই শব্দকে স্বর বলে। </p>",
+    "C": "<p>সকল অকেলাসী পদার্থের গলনাঙ্ক ও হিমাঙ্ক একই।</p>",
+    "D": "<p>অভিন্ন চাপ ও তাপমাত্রায় যে কোন গ্যাসের এক মোল একই আয়তন দখল করে।</p>",
+    "solution": "<p>অপশন \\(‘C’\\) সঠিক নয়; কেননা সকল অকেলাসী পদার্থের গলনাঙ্ক ও স্ফুটনাঙ্ক এক নয়। আবার, বিভিন্ন ধাতুর মিশ্রণে গঠিত কোনো সংকরের গলনাংঙ্ক ও স্ফুটনাংক উপাদান সমূহের গলনাঙ্ক ও স্ফুটনাংকের সমান হয়। সাধারণত সংকর ধাতুর গলনাঙ্ক এর উপাদান সমূহের গলনাঙ্কের চেয়ে অনেক কম হয়।</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>A truck has a width of \\(2.8\\ m\\). It is moving on a circular road of radius \\(48.6\\ m\\). The height of the center of mass is \\(1.2\\ m\\). The maximum speed so that it does not overturn will be nearly</p>",
+    "A": "<p>\\(24.3\\ m/s\\)</p>",
+    "B": "<p>\\(27.2\\ m/s\\)</p>",
+    "C": "<p>\\(13.4\\ m/s\\)</p>",
+    "D": "<p>\\(15.7\\  m/s\\)</p>",
+    "solution": "<p>\\(\\displaystyle \\frac{mgl}{2} =\\dfrac{mv^2}{R} h\\)</p><p></p><p>(overturning torque \\(=\\) restoring torque)</p><p></p><p></p><p>or \\(\\displaystyle v=\\sqrt{\\dfrac{gRl}{2h}}=\\sqrt{\\dfrac{10\\times 50\\times 1.4}{1.2}}\\) \\(=24.3\\ m/s\\)</p><p></p><p></p><p></p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>Mark correct option or options.</p>\n",
+    "A": "<p>The body of greater mass needs more forces to move due to more inertia</p>",
+    "B": "<p>Force versus time graph gives impulse</p>",
+    "C": "<p>Microscopic area of contact is about \\(10^{-4}\\) times actual area of the contact</p>",
+    "D": "<p>All of the above</p>",
+    "solution": "<p>When the mass of the body is higher, then it needs more force to move because of inertia. <span>Impulse is defined as force per unit time. </span><div><span>Microscopic area of contact is about \\(10^{-4}\\) times actual area of the contact, </span><span>It is known facts.</span><div>Therefore all the given statements are correct.</div><div>So the correct option is \\(D\\)</div></div></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>A simple pendulum of length 'l' carries a bob of mass 'm'. If the breaking strength of the string is 2 mg. The maximum angular amplitude from the vertical can be</p>\n",
+    "A": "<p>\\(   0^{\\circ}   \\)</p>",
+    "B": "<p>\\(3   0^{\\circ}   \\)</p>",
+    "C": "<p>\\(6 0^{\\circ}   \\)</p>",
+    "D": "<p>\\(9  0^{\\circ}   \\)</p>",
+    "solution": "<p>Given that:-</p><p>length \\( =l_{m} \\).</p><p>mass of bob \\( =m \\mathrm{~kg} \\).</p><p>Breaking strength \\( =2 \\mathrm{mg} \\).</p><p>We know that Maximum tension is at the bottom</p><p></p><p>\\( \\begin{array}{l} \\Rightarrow T=m g+\\frac{m v^{2}}{l} \\\\ \\Rightarrow 2 m g=m g+\\frac{m v^{2}}{l} \\\\ \\Rightarrow v=\\sqrt{g l} \\end{array} \\)</p><p></p><p>Now by work-energy theorem:-</p><p></p><p>\\( \\begin{array}{l} \\Rightarrow m g h=\\frac{m v^{2}}{2} \\\\ \\Rightarrow m g l(1-\\cos \\theta)=\\frac{m}{2}(\\sqrt{l g})^{2} \\\\ \\Rightarrow g l-g l \\cos \\theta=\\frac{g l}{2} \\\\ \\Rightarrow \\frac{g l}{2}=g l \\cos \\theta \\\\ \\Rightarrow \\cos \\theta=\\frac{1}{2} \\\\ \\Rightarrow \\theta=60^{\\circ} \\end{array} \\)</p><p></p><p>Hence, option C is the Correct answer.</p><p>Given that:-</p><p>length \\( =l_{m} \\).</p><p>mass of bob \\( =m \\mathrm{~kg} \\).</p><p>Breaking strength \\( =2 \\mathrm{mg} \\).</p><p>We know that Maximum tension is at the bottom</p><p></p><p>\\( \\begin{array}{l} \\Rightarrow T=m g+\\frac{m v^{2}}{l} \\\\ \\Rightarrow 2 m g=m g+\\frac{m v^{2}}{l} \\\\ \\Rightarrow v=\\sqrt{g l} \\end{array} \\)</p><p></p><p>Now by work-energy theorem:-</p><p></p><p>\\( \\begin{array}{l} \\Rightarrow m g h=\\frac{m v^{2}}{2} \\\\ \\Rightarrow m g l(1-\\cos \\theta)=\\frac{m}{2}(\\sqrt{l g})^{2} \\\\ \\Rightarrow g l-g l \\cos \\theta=\\frac{g l}{2} \\\\ \\Rightarrow \\frac{g l}{2}=g l \\cos \\theta \\\\ \\Rightarrow \\cos \\theta=\\frac{1}{2} \\\\ \\Rightarrow \\theta=60^{\\circ} \\end{array} \\)</p><p></p><p>Hence, option C is the Correct answer.</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>50cm লম্বা তারকে 50N বল দ্বারা টানা হল। তারের ভর 10<sup>-2</sup>kg&nbsp; শম হলে মূল সূরের কম্পাঙ্ক কত?</p>",
+    "A": "<p>50Hz</p>",
+    "B": "<p><span class=\"ltx\">\\(\\sqrt{50}Hz\\)</span></p>",
+    "C": "<p>71Hz</p>",
+    "D": "<p>25Hz</p>",
+    "solution": "",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>বুদবুদের চাপ, পৃষ্ঠটান ও ব্যাসার্ধের মধ্যে সম্পর্ক হচ্ছে -</p>",
+    "A": "<p>  \\( P = \\frac{4 T}{r}  \\)  </p>",
+    "B": " \\( P = \\frac{2 T}{r}  \\) ",
+    "C": " \\( P = \\frac{4 T}{3 r}  \\) ",
+    "D": " \\( P = \\frac{T}{r}  \\) ",
+    "solution": "<p>P=2T/r</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>পানির পৃষ্ঠটান 0.06N/m &nbsp;হলে এর পৃষ্ঠশক্তি-</p>",
+    "A": "<p>60 N/m</p>",
+    "B": "<p>6 N/m</p>",
+    "C": "<p>0.6 N/m </p>",
+    "D": "<p>0.06 N/m</p>",
+    "solution": "<p>কোনো তরলের পৃষ্ঠশক্তি সংখ্যাগতভাবে তরলের পৃষ্ঠটানের সমান।</p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>নিউক্লিয় বল সম্পর্কে নিচের কোনটি সঠিক নয় ?&nbsp;</p>",
+    "A": "<p>চার্জ অনির্ভর </p>",
+    "B": "<p>সম্পৃক্তধর্মী </p>",
+    "C": "<p>বৃহৎ পাল্লাসম্পন্ন </p>",
+    "D": "<p>সবচেয়ে শক্তিশালী বল&nbsp;</p>",
+    "solution": "<p>মৌলিক বলসমূহের তুলনা</p><table><tbody><tr><th colspan=\"1\" rowspan=\"1\"><p>বলের প্রকার</p></th><th colspan=\"1\" rowspan=\"1\"><p>প্রভাবিত কণা</p></th><th colspan=\"1\" rowspan=\"1\"><p>পাল্লা</p></th><th colspan=\"1\" rowspan=\"1\"><p>আপেক্ষিক সবলতা</p></th><th colspan=\"1\" rowspan=\"1\"><p>বিনিময় কণা</p></th><td colspan=\"1\" rowspan=\"1\"><p>ভূমিকা</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>সবল বল</p></td><td colspan=\"1\" rowspan=\"1\"><p>প্রোটন ও নিউট্রন</p></td><td colspan=\"1\" rowspan=\"1\"><p>\\(10^{-15}m\\)</p></td><td colspan=\"1\" rowspan=\"1\"><p>1</p></td><td colspan=\"1\" rowspan=\"1\"><p>মেসন</p></td><td colspan=\"1\" rowspan=\"1\"><p>কোয়ার্ক সমুহকে একত্রে আবদ্ধ করে প্রোটন ও নিউট্রন এবং প্রোটন ও নিউট্রনকে একত্রে আবদ্ধ করে নিউক্লিয়াস গঠন করে।</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>তাড়িতচৌম্বক বল</p></td><td colspan=\"1\" rowspan=\"1\"><p>আধানযুক্ত কণা</p></td><td colspan=\"1\" rowspan=\"1\"><p>অসীম</p></td><td colspan=\"1\" rowspan=\"1\"><p>\\(10^{-2}\\)</p></td><td colspan=\"1\" rowspan=\"1\"><p>ফোটন</p></td><td colspan=\"1\" rowspan=\"1\"><p>পরমাণু ও অণু গঠন করে। পদার্থের কঠিন ও তরল অবস্থার জন্য দায়ী।</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>দুর্বল নিউক্লিয় বল</p></td><td colspan=\"1\" rowspan=\"1\"><p>লেপ্টন</p></td><td colspan=\"1\" rowspan=\"1\"><p>\\(10^{-18}m\\)</p></td><td colspan=\"1\" rowspan=\"1\"><p>\\(10^{-13}\\)</p></td><td colspan=\"1\" rowspan=\"1\"><p>W ও Z বোসন</p></td><td colspan=\"1\" rowspan=\"1\"><p>নিউক্লিয় বিটা ক্ষয়ের জন্য দায়ী।</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>মহাকর্ষ বল</p></td><td colspan=\"1\" rowspan=\"1\"><p>সমস্ত পদার্থ</p></td><td colspan=\"1\" rowspan=\"1\"><p>অসীম</p></td><td colspan=\"1\" rowspan=\"1\"><p>\\(10^{-38}\\)</p></td><td colspan=\"1\" rowspan=\"1\"><p>গ্রাভিটন</p></td><td colspan=\"1\" rowspan=\"1\"><p>পদার্থসমূহকে সংযোজিত করে গ্রহ, নক্ষত্র ও গ্যালাক্সি গঠন করে।</p></td></tr></tbody></table>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>যদি 10cm তরঙ্গদৈর্ঘ্যের শব্দ বায়ু [v = 330m/s] থেকে একটি অন্য মাধ্যমে [v 33m/s] প্রবেশ করে, তাহলে সেই মাধ্যমে = তরঙ্গদৈর্ঘ্য কত?</span></p>",
+    "A": "<p>100cm</p>",
+    "B": "<p>1 cm</p>",
+    "C": "<p>10 cm</p>",
+    "D": "<p>কোনোটিই নয়</p>",
+    "solution": "<p>\\(\\frac{v_1}{v_2} = \\frac{\\lambda_1}{\\lambda_2} \\implies \\frac{330}{33} = \\frac{0.1}{\\lambda_2} \\implies \\lambda_2 = 1 cm\\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>কোন হালকা বস্তু ও ভারী বস্তুর ভরবেগ সমান, এর মধ্যে কোনটির গতিশক্তি বেশি -</p>",
+    "A": "<p>হালকা বস্তুর </p>",
+    "B": "<p>ভারী বস্তুর </p>",
+    "C": "<p>উভয়েরই সমান </p>",
+    "D": "<p>কোনটিই নয় </p>",
+    "solution": "<p></p><p></p><p>\\( \\begin{aligned} &amp; E_{k}=\\frac{p^{2}}{2 m} \\\\ \\therefore &amp; E_{k} \\propto \\frac{1}{m}[P=\\text { cons. }]\\end{aligned} \\)</p><p></p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য<span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mrow><mn>5</mn><mi>λ</mi></mrow><mn>4</mn></mfrac></mrow><annotation encoding=\"application/x-tex\">\\frac{5\\lambda}{4}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.2251em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8801em;\"><span style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">4</span></span></span></span><span style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">5</span><span class=\"mord mathnormal mtight\">λ</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?</p>",
+    "A": "<p>\\(\\frac{\\pi}{3}\\)</p>",
+    "B": "<p>\\(\\frac{\\pi}{4}\\)</p>",
+    "C": "<p>\\(\\frac{\\pi}{2}\\)</p>",
+    "D": "<p>\\(\\frac{\\pi}{6}\\)</p>",
+    "solution": "<p>দশা পার্থক্য\\(=\\frac{2\\pi}{\\lambda}\\times\\)পথ পার্থক্য</p><p>⇒ দশা পার্থক্য\\(=\\frac{2\\pi}{\\lambda}\\times\\frac{5\\lambda}{4}=\\frac{5\\pi}{2}=\\left(2\\pi+\\frac{\\pi}{2}\\right)=\\frac{\\pi}{2}\\)</p>",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>লোহার ইয়াং এর গুণাঙ্ক 2.205×10<sup>11</sup>N/m<sup>2</sup> এর ঘনত্ব &nbsp;7.85×10<sup>3</sup>kg/m<sup>3</sup>। লোহার ভিতর শব্দের বেগ কত?</p>",
+    "A": "<p>5300 m/sec</p>",
+    "B": "<p>530 m/sec </p>",
+    "C": "<p>53 m/sec </p>",
+    "D": "<p>&nbsp;5.3 m/sec</p>",
+    "solution": "<p>\\(C = \\sqrt{\\frac{E}{\\rho}} = \\sqrt{\\frac{2.205 \\times 10^{11} \\, \\text{N/m}^2}{7.85 \\times 10^{3} \\, \\text{kg/m}^3}} = \\sqrt{2.81146497 \\times 10^{7} \\, \\text{m}^2/\\text{s}^2} = 5300 \\, \\text{m/s}\\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>বহুতল বিশিষ্ট একটি দালানের ছাদেও কিনাওে থেকে একটি পাথরকে ছেড়ে দেওয়া হল। পাথরটি ভূমিতে পড়ার 2sec পূর্বে দালানের ছাদ থেকে 44.1 মিটার নিচে নেমে আসে। পাথরটি ভূমিতে পড়তে কত সময় লাগে?&nbsp;</p>",
+    "A": "<p>3sec</p>",
+    "B": "<p>4sec</p>",
+    "C": "<p>5sec</p>",
+    "D": "<p>7sec</p>",
+    "solution": "<p>পাথরটি ভূমিতে পড়ার জন্য সময় হবে, </p><p>\\( \\begin{aligned} t &amp; =\\sqrt{\\frac{2 h}{g}} \\\\ &amp; =\\sqrt{\\frac{12 \\times 44.1}{9.8}} \\\\ &amp; =3 ~\\mathrm{scc}\\end{aligned} \\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>1050 Hz কম্পন সংবা বিশিষ্ট একটি শব্দের উৎস তােমার নিকট হতে 20 m/sec গতিতে একটি পাহাড়ের দিকে চলছে। আগত শব্দের কত কম্পন সংখ্যা তুমি শুনবে? (শব্দের বেগ =330 m/sec)</span></p>",
+    "A": "<p>970Hz</p>",
+    "B": "<p>990Hz</p>",
+    "C": "<p>1115Hz</p>",
+    "D": "<p>789Hz</p>",
+    "solution": "<p> এক্ষেত্রে উৎস শ্রোতা হতে দূরে সরে যাচ্ছে। .:.ট্রেন হতে আগত শব্দের আপত কম্পাঙ্ক, F′ = (1050 × 330 330+20 Hz = 990Hz</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>Read statement-1 and statement-2 and choose the correct option.</p>\n<p>Statement-1: In some situations, friction facilitates the motion and in some situations, it opposes the motion.</p>\n<p>Statement-2: Friction force always opposes the relative motion between two surfaces in contact.</p>\n<p>Choose the correct option.</p>",
+    "A": "<p>Only statement -1 is correct</p>",
+    "B": "<p>Only statement-2 is correct</p>",
+    "C": "<p>Both statement-1 and statement-2 are correct</p>",
+    "D": "<p>Neither statement-1 nor statement-2 is correct</p>",
+    "solution": "<p>Given that:</p><p>2 Statements with concepts related to friction.</p><p>In some situations, friction facilitates motion which is for example when we walk, friction helps us.</p><p>But in some situations, it opposes the motion as when we try to push or pull some objects, it opposes the motion. On the other hand, friction does not oppose the relative motion between 2 surfaces.</p><p>Hence, the correct option is (A).</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>একটি তরঙ্গের দুটি বিন্দুর মধ্য দশা পার্থক্য π হলে, বিন্দুদ্বয়ের মধ্যে পথ পার্থক্য কত?</span></p>",
+    "A": "<p><span>λ</span></p>",
+    "B": "<p><span>2λ</span></p>",
+    "C": "<p><span>λ/2</span></p>",
+    "D": "<p><span>λ/4</span></p>",
+    "solution": "<p><span>উত্তর :একটি তরঙ্গের দুটি বিন্দুর মধ্য দশা পার্থক্য π হলে, বিন্দুদ্বয়ের মধ্যে পথ পার্থক্য-</span><span>λ/2</span></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>তিনটি সুর শলাকা নেওয়া হলাে যাদের কম্পাঙ্ক যথাক্রমে 105 Hz, 315 Hz এবং 525 Hz। শলাকা তিনটি দিয়ে বায়ুতে শব্দ সৃষ্টি করলে সৃষ্ট শব্দের তরঙ্গ দৈর্ঘ্যের অনুপাত কী হবে?</span></p>",
+    "A": "<p>1 : 3 : 5</p>",
+    "B": "<p>3 : 5 : 15</p>",
+    "C": "<p>15 : 5 : 3</p>",
+    "D": "<p>5 : 3 : 1</p>",
+    "solution": "",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>আড় তরঙ্গের বৈশিষ্ট্য হলো -&nbsp;</p><ol><li><p>মাধ্যমের কণাগুলোর কম্পনের দিক তরঙ্গ প্রবাহের দিকের সমান্তরাল হয়&nbsp;</p></li><li><p>তরঙ্গ প্রবাহে মাধ্যমে তরঙ্গ শীর্ষ ও তরঙ্গ পাদ সৃষ্টি হয়&nbsp;</p></li><li><p>&nbsp;মাধ্যমে এর সমবর্তন বা পোলারণ ঘটে</p></li></ol>",
+    "A": "<p>i ও ii</p>",
+    "B": "<p>i ও iii</p>",
+    "C": "<p>ii ও iii</p>",
+    "D": "<p>i,  ii ও iii</p>",
+    "solution": "<p>আড় বা অনুপ্রস্থ তরঙ্গের বৈশিষ্ট্য</p><p>\n</p><p></p><p>আড় তরঙ্গের মধ্যে নিম্নলিখিত বৈশিষ্ট্য পরিলক্ষিত হয়—</p><p>\n</p><p>১। যে তরঙ্গের ক্ষেত্রে জড় মাধ্যমের কণাগুলির কম্পনের দিক তরঙ্গ প্রবাহের দিকের সমকোণী হয়, তাকে</p><p>\n</p><p>আড় তরঙ্গ বলে ।</p><p>\n</p><p>২। তরঙ্গ প্রবাহে মাধ্যমে তরঙ্গ শীর্ষ এবং তরঙ্গ পাদ সৃষ্টি হয়।</p><p>\n</p><p>৩। পর পর দুটি তরঙ্গ শীর্ষ বা পর পর দুটি তরঙ্গ পাদের মধ্যবর্তী দূরত্বকে তরঙ্গদৈর্ঘ্য বলে ।</p><p>\n</p><p>8 । আড় তরঙ্গের দরুন মাধ্যমে এর সমবর্তন বা পোলারণ ঘটে।</p><p>\n</p><p>৫। অনম্যতার বা আকৃতির স্থিতিস্থাপক ধর্মসম্পন্ন মাধ্যমে (কঠিন) এই তরঙ্গ উৎপন্ন হয়।</p><p>\n</p><p>৬। প্রবাহীতে পৃষ্ঠটানের দরুন আড় তরঙ্গের সৃষ্টি হয়।</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>X অক্ষে গতিশীল বস্তুর \\(v-t\\) লেখচিত্রটি \\(SI\\) এককে রয়েছে। \\(1.5π\\) সেকেন্ড পর বস্তুর সরণ কত?</p>",
+    "A": "<p>\\(3 m \\)</p>",
+    "B": "<p>\\(0 m \\)</p>",
+    "C": "<p>\\(-1 m \\)</p>",
+    "D": "<p>\\(1 m \\)</p>",
+    "solution": "<p>\\(s=∫ vdt  ∴s=∫_0^{3π/2}cos⁡(t)dt=-1m\\) [সরণ ঋণাত্মক]</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>নিম্নের কোনটি বর্ণালী-বীক্ষণ যন্ত্রের অংশ নয়?&nbsp;</span></p>",
+    "A": "<p><span>দূরবীক্ষণ যন্ত্র&nbsp;</span></p>",
+    "B": "<p><span>ধ্রুবক&nbsp;</span></p>",
+    "C": "<p><span>প্রিজম টেবিল</span></p>",
+    "D": "<p><span>কলিমেটর&nbsp;</span></p>",
+    "solution": "<p><span>উত্তর :ধ্রুবক&nbsp; বর্ণালী-বীক্ষণ যন্ত্রের অংশ নয়।</span></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p> পাশাপাশি দু'টি সুষ্পন্দ বিন্দুর মধ্যবর্তী দশা পার্থক্য কত?</p>",
+    "A": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mi>π</mi><mn>4</mn></mfrac></mrow><annotation encoding=\"application/x-tex\">\\frac{\\pi}{4}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0404em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">4</span></span></span></span><span style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.03588em;\">π</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span></p>",
+    "B": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/x-tex\">\\frac{\\pi}{2}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0404em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span><span style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.03588em;\">π</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span></p>",
+    "C": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>π</mi></mrow><annotation encoding=\"application/x-tex\">\\pi</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.03588em;\">π</span></span></span></span></span></p>",
+    "D": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn><mi>π</mi></mrow><annotation encoding=\"application/x-tex\">2\\pi</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.03588em;\">π</span></span></span></span></span></p>",
+    "solution": "<p>তরংগ দৈর্ঘ্যের অর্ধেক বলে দশা পার্থক্য ১৮০</p>",
+    "answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p></p><p>একটি বস্তু সরল ছন্দিত স্পন্দনে চলছে। ৩ সেকেন্ড পরে বস্তুটির বেগ নির্ণয় কর।</p>",
+    "A": "<p>133 m/s</p>",
+    "B": "<p>-163 m/s</p>",
+    "C": "<p>83 m/s</p>",
+    "D": "<p>-83 m/s</p>",
+    "solution": "<p>\\( \\begin{array}{l}\\text { বেগ }=-10 \\sin \\left(6 \\pi \\mathrm{t}+\\frac{\\pi}{3}\\right) \\times 6 \\pi \\\\ =-10 \\sin \\left(6 \\times \\pi \\times 3+\\frac{\\pi}{3}\\right) \\times 6 \\pi=-10 \\sin \\left(18 \\pi+\\frac{\\pi}{3}\\right) \\times 6 \\pi \\\\ =-10 \\sin \\left(\\frac{\\pi}{3}\\right) \\times 6 \\pi=-\\left(10 \\times \\frac{\\sqrt{3}}{2} \\times 6 \\pi\\right)=-163.24 \\approx-163 \\mathrm{~ms}^{-1}\\end{array} \\)</p>",
+    "answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p><span>নিচের কোনটি হারমোনিক?</span></p>",
+    "A": "<p>100, 200 এবং 500Hz</p>",
+    "B": "<p>55, 112 এবং 165Hz</p>",
+    "C": "<p>81, 162 এবং 243Hz</p>",
+    "D": "<p>123, 245 এবং 325Hz</p>",
+    "solution": "<p>উত্তর :<span>81, 162 এবং 243Hz</span></p><p><span>হারমোনিক।</span></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>কৈশিক কাচ নল পারদে ডুবালে নলের ভিতর পারদ স্তম্ভ নেমে যায়, এর কারণ-</p><ol><li><p>এরা কাচনলকে ভিজায় না</p></li><li><p>&nbsp;পৃষ্ঠটানের অনুভুমিক উপাংশের মান ঋণাত্মক</p></li><li><p>&nbsp;স্পর্শকোণ &nbsp;θ এর মান 0°&lt; θ &gt;90°</p></li></ol><p>নিচের কোনটি সঠিক?&nbsp;</p>",
+    "A": "<p>i,ii</p>",
+    "B": "<p>i,iii</p>",
+    "C": "<p>ii,iii</p>",
+    "D": "<p>i,ii,iii</p>",
+    "solution": "<p>পারদের ক্ষেত্রে স্পর্শকোণ এর মান \\(\\theta&gt;90°\\) </p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>কাঁচ ও বিশুদ্ধ পানির স্পর্শ কোণ কত?</span></p>",
+    "A": "<p>180°</p>",
+    "B": "<p>8°</p>",
+    "C": "<p>15°</p>",
+    "D": "<p>90°</p>",
+    "solution": "<p>কাঁচ ও বিশুদ্ধ পানির স্পর্শকোণ = ৪°বিশুদ্ধ কাঁচ ও বিশুদ্ধ পানির স্পর্শকোণ = 0°</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>\\(x \\)  ভর  এবং \\(2 r \\) ব্যাস  এর একটি মার্বেল একটি লম্বা সিলিন্ডারে ছেড়ে দেওয়া হয়। যদি মার্বেল তরলের  \\(y(<x)\\) ভর স্থানচ্যুত করে, তবে এর প্রান্তিক বেগ কত ? <p>",
+    "A": "<p>\\( (x+y) \\) </p>",
+    "B": "<p>\\( (x-y) \\) </p>",
+    "C": "<p>\\( \\frac{x+y}{r} \\) </p>",
+    "D": "<p>\\( \\frac{(x-y)}{r} \\) </p>",
+    "solution": "<p>Solve:If \\( v \\) is the terminal velocity, then equation of force,</p><p>\\( x g-y g=6 \\pi \\eta r v \\)</p><p>or \\( v=\\frac{(x-y)}{r} \\frac{g}{6 \\pi \\eta} \\text { or } v \\propto \\frac{(x-y)}{r} \\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>একটি গিটারের তারের টান দ্বিগুণ বাড়ানো হয় তাহলে এর কম্পাঙ্ক-&nbsp;&nbsp;</p>",
+    "A": "<p>দ্বিগুণ হবে</p>",
+    "B": "<p>অর্ধেক হবে </p>",
+    "C": "<p>অপরিবর্তিত</p>",
+    "D": "<p>কোনটিই নয়</p>",
+    "solution": "<p>উত্তর :ঘ</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>একটি প্লেনের ইঞ্জিনের যে পরিমাণ শব্দ করে, দুটি ইঞ্জিন চালু করা হলে শব্দের তীব্রতা কতটুকু বৃদ্ধি পাবে?</span></p> ",
+    "A": "<p>2dB</p>",
+    "B": "<p>3dB</p>",
+    "C": "<p>4dB</p>",
+    "D": "<p>5dB</p>",
+    "solution": "<p>উত্তর :<span>একটি প্লেনের ইঞ্জিনের যে পরিমাণ শব্দ করে, দুটি ইঞ্জিন চালু করা হলে শব্দের তীব্রতা  3dB</span><span>বৃদ্ধি পাবে। </span></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>3m দৈর্ঘ্য এবং 1 mm ব্যাস বিশিষ্ট একটি ধাতব তারকে 10 Kg ওজন দ্বারা টানা হল।যদি ইহার উপাদানের ইয়াং এর গুনাংক এবং পয়সনের অনুপাত যথাক্রমে&nbsp; 12.5×10<sup>11</sup>dyne/cm<sup>2</sup> ও 0.26 হয় তাহলে এর পার্শ্বীয় সংকোচন বের কর।</p><p><br></p>",
+    "A": "<p>2.6×10<sup>-5</sup>cm</p>",
+    "B": "<p>2.6×10<sup>-4</sup>cm</p>",
+    "C": "<p>2.6×10<sup>-7</sup>cm</p>",
+    "D": "<p>None of these</p>",
+    "solution": "<p>\\( \\mathrm{Y}=\\frac{\\mathrm{FL}}{\\mathrm{A} l}=\\frac{\\mathrm{mgL}}{\\pi \\mathrm{r}^{2} l} \\)</p><p>\\( \\left[1\\right. \\) dyne \\( / \\mathrm{cm}^{2}=\\frac{1}{10} \\mathrm{~N} / \\mathrm{m}^{2} \\therefore 12.5 \\times 10^{11} \\) dyne \\( / \\mathrm{cm}^{2}=12.5 \\times 10^{10} \\mathrm{~N} / \\mathrm{m}^{2} \\) ]</p><p>\\( \\therefore \\) দৈর্ঘ্যবিকৃতি, \\( \\frac{l}{\\mathrm{~L}}=\\frac{\\mathrm{mg}}{\\pi \\mathrm{r}^{2} \\mathrm{Y}}=\\frac{10 \\times 9.8}{3.1416 \\times\\left(0.5 \\times 10^{-3}\\right)^{2} \\times 12.5 \\times 10^{10}}=9.98 \\times 10^{-4} \\)</p><p>\\( \\therefore \\) পার্শ্বিবিকৃতি \\( = \\) পয়সনের অনুপাত \\( \\times \\) দৈর্ঘ্যবিকৃতি</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>বায়ুর সংস্পর্শে 20°C তাপমাত্রায় পানির তলটান কত হবে?</p>",
+    "A": "<p>7.35 dyne cm<sup>-1</sup></p>",
+    "B": "<p>73.5 dyne cm<sup>-1</sup></p>",
+    "C": "<p>73.5 Nm<sup>-1</sup></p>",
+    "D": "<p>7.35 × Nm<sup>-1</sup></p>",
+    "solution": "",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>একটি সুস্পন্দ ও একটি নিস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব কত?</p>",
+    "A": "<span> \\( \\frac{\\lambda}{4}  \\) </span>",
+    "B": "<span> \\( \\frac{\\lambda}{2}  \\) </span>",
+    "C": "<span> \\( \\frac{2 \\pi}{4}  \\) </span>",
+    "D": "<span> \\( \\lambda  \\) </span>",
+    "solution": "Is-616, একটি সুস্পন্দ ও একটি নিস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব  - lamda/4",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>P মাধ্যমে শব্দের বেগ Q মাধ্যমে শব্দের বেগের 4 গুন । শব্দের তরঙ্গদৈর্ঘ্যের পার্থক্য 2m এবং Q মাধ্যমে শব্দের বেগ 350 ms<sup>-1</sup> ।</span></p><p><span>P মাধ্যমে 100 কম্পনে শব্দের অতিক্রান্ত দূরত্ব -</span></p>",
+    "A": "<p>21.67 m</p>",
+    "B": "<p>37.5 m</p>",
+    "C": "<p>183.75 m</p>",
+    "D": "<p>266.67 m</p>",
+    "solution": "<p></p><p>p মাধ্যমে 100 কম্পনে</p><p>শব্দের অতিক্রান্ত দূরত্ব </p><p>\\( \\begin{array}{l} =266.67 \\mathrm{~m} \\\\ \\end{array} \\)</p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>একটি নলাকার পাত্রের নীচে \\(A \\) ক্ষেত্রফলের  একটি গর্ত রয়েছে। পানি \\(h \\)  উচ্চতা পর্যন্ত ভরাট করে  এবং  \\(t \\) সেকেন্ডে প্রবাহিত হয়। যদি পানি একটি উচ্চতায়  \\(4 \\) ঘন্টায় পূর্ণ হয়  , তবে এটি কত সময় প্রবাহিত হবে ? <p>",
+    "A": "<p>\\( 2 t \\) </p>",
+    "B": "<p>\\( 4 t \\) </p>",
+    "C": "<p>\\( 16 t \\) </p>",
+    "D": "<p>\\( 7 / 4 t \\) </p>",
+    "solution": "<p>Solve:Volume of water in the vessel of base area \\( A^{\\prime} \\) and height \\( h \\) is \\( V=A^{\\prime} h \\). Average velocity of out flowing water when height of water changes from \\( h \\) to 0 is</p>\n<p>\\( \\begin{array}{rlrl} & v & =\\frac{\\sqrt{2 g h}+0}{2}=\\frac{\\sqrt{2 g h}}{2} \\\\ \\therefore \\quad V & =A v t \\end{array} \\)</p>\n<p>When vessel is filled to height \\( 4 h \\), the volume in vessel</p>\n<p>\\( =4 V=4 A v t=4 A \\frac{\\sqrt{2 g h}}{2} \\times t \\)</p>\n<p>If \\( t \\) is the time taken for the out flowing liquid and \\( v_{1} \\) is the averege velocity of out flowing liquid, then</p>\n<p>\\( \\begin{aligned} 4 V & =A v_{1} t_{1} \\\\ t_{1} & =\\frac{4 V}{A v_{1}}=\\frac{4 A \\sqrt{2 g h} \\times t \\times 2}{2 \\times A \\times \\sqrt{2 g \\times 4 h}}=2 t \\end{aligned} \\)</p>\n\n",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>একটি সাবান বুদবুদ এর ব্যাস \\(d \\) থেকে \\(D \\) পর্যন্ত বৃদ্ধি করার জন্য কি পরিমাণ কাজ করা হয় ? (Here, \\( S= \\) surface tension of solution)</p><p></p>",
+    "A": "<p>\\( \\pi\\left(D^{2}-d^{2}\\right) S \\) </p>",
+    "B": "<p>\\( 2 \\pi\\left(D^{2}-d^{2}\\right) S \\) </p>",
+    "C": "<p>\\( 4 \\pi\\left(D^{2}-d^{2}\\right) S \\) </p>",
+    "D": "<p>\\( 8 \\pi\\left(D^{2}-d^{2}\\right) S \\) </p>",
+    "solution": "<p>Solve:Change in surface area \\( =2 \\times 4 \\pi\\left[(D / 2)^{2}-(d / 2)^{2}\\right] \\)</p>\n<p>\\( =2 \\pi\\left(D^{2}-d^{2}\\right) \\)</p>\n<p>\\( \\therefore \\) Work done \\( = \\) surface tension \\( \\times \\) change in area</p>\n<p>\\( =2 \\pi S\\left(D^{2}-d^{2}\\right) \\)</p>\n\n",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>\\(1 \\mathrm{~cm} \\) ব্যাসার্ধের একটি পারদ ফোঁটা, সমান আকারের \\(10^{6} \\) টি ফোঁটায় বিভক্ত হয়।তাহলে কতটুকু কাজ হয়েছে ? (Take, \\( S=35 \\times 10^{-2} \\mathrm{Nm}^{-1} \\) )</p><p></p>",
+    "A": "<p>\\( 4.35 \\times 10^{-2} \\mathrm{~J} \\) </p>",
+    "B": "<p>\\( 4.35 \\times 10^{-3} \\mathrm{~J} \\) </p>",
+    "C": "<p>\\( 4.35 \\times 10^{-6} \\mathrm{~J} \\) </p>",
+    "D": "<p>\\( 4.35 \\times 10^{-8} \\mathrm{~J} \\) </p>",
+    "solution": "<p>Solve:If \\( r \\) is the radius of smaller droplet and \\( R \\) is the radius of bigger drop, then according to question,</p>\n<p>\\( \\begin{aligned} \\frac{4}{3} \\pi R^{3} & =10^{6} \\times \\frac{4}{3} \\pi r^{3} \\\\ r & =\\frac{R}{100}=0.01 R \\\\ & =0.01 \\times 10^{-2} \\mathrm{~m}=10^{-4} \\mathrm{~m} \\end{aligned} \\)</p>\n<p>or</p>\n<p>\\( \\therefore \\) Work done \\( = \\) Surface tension \\( \\times \\) Increase in area</p>\n<p>\\( \\begin{array}{l} =35 \\times 10^{-2} \\times\\left[\\left(10^{6} \\times 4 \\pi \\times\\left(10^{-4}\\right)^{2}-4 \\pi \\times\\left(10^{-3}\\right)^{2}\\right]\\right. \\\\ =4.35 \\times 10^{-2} \\mathrm{~J} \\end{array} \\)</p>\n\n",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>একটি U আকৃতির নলে \\(10 \\mathrm{~cm} \\) পানি এবং \\(12.5 \\mathrm{~cm} \\) মিথাইলেটেড স্পিরিট থাকে ,যা পারদ দ্বারা পৃথক করা হয়। যদি \\(15.0 \\mathrm{~cm} \\) পানি এবং স্পিরিট প্রতিটি নলের নিজ নিজ বাহুতে ঢেলে দেওয়া হয়, তবে দুটি বাহুতে পারদের পার্থক্য কত? ( পারদের নির্দিষ্ট ম্যাধ্যাকর্ষণ = 13.6 )</p>",
+    "A": "<p>\\( 0.221 \\mathrm{~cm} \\)</p>",
+    "B": "<p>\\( 2.22 \\mathrm{~cm} \\)</p>",
+    "C": "<p>\\( 0.02 \\mathrm{~cm} \\)</p>",
+    "D": "<p>None of these</p>",
+    "solution": "<p>Solve:When \\( 15.0 \\mathrm{~cm} \\) of water is poured in each arm, then height of water column \\( \\left(h_{1}\\right)=10+15=25 \\mathrm{~cm} \\)</p><p>Height of spirit column \\( \\left(h_{2}\\right)=12.5+15=27.5 \\mathrm{~cm} \\)</p><p>Density of water \\( \\left(\\rho_{w}\\right)=1 \\mathrm{~g} / \\mathrm{cm}^{3} \\)</p><p>Density of spirit \\( \\left(\\rho_{s}\\right)=0.80 \\mathrm{~g} / \\mathrm{cm}^{3} \\)</p><p>Density of mercury \\( \\left(\\rho_{m}\\right)=13.6 \\mathrm{~g} / \\mathrm{cm}^{3} \\)</p><p>Let in equilibrium, the difference in the level of mercury in both arms be \\( h \\mathrm{~cm} \\).</p><p>\\( \\begin{array}{rlrl} \\therefore &amp; h \\rho_{m} g &amp; =h_{1} \\rho_{w} g-h_{2} \\rho_{s} g \\\\ \\text { or } &amp; h &amp; =\\frac{h_{1} \\rho_{w}-h_{2} \\rho_{s}}{\\rho_{m}}=\\frac{25 \\times 1-27.5 \\times 0.80}{13.6} \\\\ &amp; =0.221 \\mathrm{~cm} \\end{array} \\)</p><p>or</p><p>\\( \\begin{aligned} h &amp; =\\frac{h_{1} \\rho_{w}-h_{2} \\rho_{s}}{\\rho_{m}}=\\frac{25 \\times 1-27.5 \\times 0.80}{13.6} \\\\ &amp; =0.221 \\mathrm{~cm} \\end{aligned} \\)</p><p>Therefore, mercury will rise in the arm containing spirit by \\( 0.221 \\mathrm{~cm} \\).</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p> পানির পৃষ্ঠ থেকে  গর্ত এর ভিত্তি \\(40 \\mathrm{~cm} \\) গভীরতায় থাকলে পানি  প্রবেশ করে। যদি জলের পৃষ্ঠের টান 73.5 ডাইন / সেমি হয় তবে গর্তের ব্যাসার্ধটি  কত ? <p>",
+    "A": "<p>\\( 375 \\mathrm{~mm} \\) </p>",
+    "B": "<p>\\( 3.75 \\mathrm{~mm} \\) </p>",
+    "C": "<p>\\( 0.0375 \\mathrm{~mm} \\) </p>",
+    "D": "<p>zero </p>",
+    "solution": "<p>Solve:As the water tries to enter the hole, it forms a liquid surface through the hole with its concave surface downward. Due to which it can withstand the pressure of the liquid upto which the canister is lowered.</p>\n<p>\\( \\therefore \\) In equilibrium, \\( \\frac{2 T}{r}=h \\rho g \\)</p>\n<p>\\( \\Rightarrow \\quad h=\\frac{2 \\sigma}{r \\rho g} \\)</p>\n<p>Putting the given values, we get</p>\n<p>\\( \\begin{aligned} r & =\\frac{2 \\times 73.5}{40 \\times 1 \\times 980} \\\\ & =0.00375 \\mathrm{~cm} \\\\ & =0.0375 \\mathrm{~mm} \\end{aligned} \\)</p>\n\n",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>অ্যালকোহলে নিমজ্জিত একটি ধাতব বলের ওজন \\( 0^{\\circ} \\mathrm{C} \\) এ \\( W_{1} \\) এবং \\( 59^{\\circ} \\mathrm{C} \\) এ \\( W_{2} \\)।ধাতুর আয়তন সম্প্রসারণের গুণাঙ্ক অ্যালকোহলের চেয়ে কম। ধরে নেওয়া যায় যে, অ্যালকোহলের তুলনায় ধাতুর ঘনত্ব বেশি, তবে নিচের কোনটি সঠিক?</p>",
+    "A": "<p>\\( W_{1}>W_{2} \\) </p>",
+    "B": "<p>\\( W_{1}<W_{2} \\) </p>",
+    "C": "<p>\\( W_{1}=W_{2} \\) </p>",
+    "D": "<p>\\( W_{1}=2 W_{2} \\) </p>",
+    "solution": "<p>Solve:Let \\( V_{0}, V_{t}= \\) volume of the metal ball at \\( 0^{\\circ} \\mathrm{C} \\) and \\( t^{\\circ} \\mathrm{C} \\) respectively, \\( \\rho_{0} \\rho_{2}= \\) density of alcohol at \\( 0^{\\circ} \\mathrm{C} \\) and \\( t^{\\circ} \\mathrm{C} \\) respectively. Then</p>\n<p>\\( \\begin{array}{l} W_{1}=W_{0}-V_{0} \\rho_{0} g \\\\ W_{2}=W_{t}-V_{t} \\rho_{t} g \\end{array} \\)</p>\n<p>where, \\( V_{t}=V_{0}\\left(1+\\gamma_{m} t\\right) \\) and \\( \\rho_{t}=\\frac{\\rho_{0}}{\\left(1+\\gamma_{a} l\\right)} \\)</p>\n<p>Upthrust at \\( t^{\\circ} C=V_{t} \\rho_{t} g \\)</p>\n<p>\\( \\begin{array}{l} =V_{0}\\left(1+\\gamma_{m} t\\right) \\times \\frac{\\rho_{0}}{\\left(1+\\gamma_{a} t\\right)} g \\\\ =V_{0} \\rho_{0} \\frac{\\left(1+\\gamma_{m} l\\right)}{\\left(1+\\gamma_{a} l\\right)} g \\end{array} \\)</p>\n<p>As \\( \\gamma_{m}<\\gamma_{a} \\), hence upthrust at \\( t^{\\circ} \\mathrm{C} \\) is less than at \\( 0^{\\circ} \\mathrm{C} \\). It means upthrust has been decreased with increase in temperature. Due to which \\( W_{2}>W_{1} \\).</p>\n\n\n",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>\\(r \\) ব্যাসার্ধের একটি কৈশিক নলের মাধ্যমে তরল প্রবাহের হার \\(v \\) যখন কৈশিকের দুই প্রান্ত জুড়ে চাপের পার্থক্য \\(p \\) । যদি চাপ \\(3 p \\) বৃদ্ধি করা হয় এবং ব্যাসার্ধ \\(r/2\\) এ হ্রাস করা হয়, তাহলে প্রবাহের হার কত হবে ?</p><p></p>",
+    "A": "<p>\\( V / 9 \\) </p>",
+    "B": "<p>\\( 3 V / 8 \\) </p>",
+    "C": "<p>\\( V / 4 \\) </p>",
+    "D": "<p>\\( \\mathrm{V} / 3 \\) </p>",
+    "solution": "<p>Solve:As, \\( V=\\frac{\\pi p r^{4}}{8 \\eta l} \\) and \\( V^{\\prime}=\\frac{\\pi(3 p+p)(r / 2)^{4}}{8 \\eta l} \\)</p><p>\\( \\begin{array}{ll} \\therefore &amp; \\frac{V^{\\prime}}{V}=4 \\times(1 / 2)^{4}=\\frac{1}{4} \\\\ \\text { or } &amp; V^{\\prime}=\\frac{V}{4} \\end{array} \\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>\\(l\\) দৈর্ঘ্য এবং \\(r \\) ব্যাসার্ধ এর একটি কৈশিক নলের মধ্যে পানির স্থির আয়তনের প্রবাহের হার হল \\(v \\)। এই নলটি একই দৈর্ঘ্যের অন্য একটি নলের সাথে সংযুক্ত তবে এটির ব্যাসার্ধ প্রথমটির ব্যাসার্ধের অর্ধেক। এটির মধ্য দিয়ে স্থির আয়তনের প্রবাহের হার কত ?(সংমিশ্রণ জুড়ে চাপের পার্থক্য হল \\(p \\))</p><p></p>",
+    "A": "<p>\\( \\frac{V}{16} \\) </p>",
+    "B": "<p>\\( \\frac{V}{17} \\) </p>",
+    "C": "<p>\\( \\frac{16 V}{17} \\) </p>",
+    "D": "<p>\\( \\frac{17 \\mathrm{~V}}{16} \\) </p>",
+    "solution": "<p>Solve:Rate of flow of liquid, \\( V=\\frac{p}{R} \\) where liquid resistance, \\( R=\\frac{8 \\eta l}{\\pi r^{2}} \\)</p>\n<p>For another tube, liquid resistance,</p>\n<p>\\( R^{\\prime}=\\frac{8 \\eta l}{\\pi\\left(\\frac{r}{2}\\right)^{4}}=\\frac{8 \\eta l}{\\pi r^{4}} \\cdot 16=16 R \\)</p>\n<p>For series combination,</p>\n<p>\\( V_{\\text {new }}=\\frac{p}{R+R^{\\prime}}=\\frac{p}{R+16 R}=\\frac{p}{17 R}=\\frac{V}{17} \\)</p>\n\n",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি কৈশিক নলের  অভ্যন্তরীণ প্রাচীরে মোম  এর  প্রলেপ করা হয় এবং তারপরে নলটি পানিতে ডুবিয়ে দেওয়া হয়।   কৈশিকের  জল বৃদ্ধি কোণ \\(\\theta \\) এবং উচ্চতা \\(h \\)  পরিবর্তিত হয়। এই পরিবর্তনগুলি কেমন ? <p>",
+    "A": "<p>\\( \\theta \\) বাড়ে and \\( h \\) also বাড়ে</p>",
+    "B": "<p>\\( \\theta \\) কমে and \\( h \\) also কমে</p>",
+    "C": "<p><br>\\( \\theta \\) বাড়ে and \\( h \\) কমে </p>",
+    "D": "<p>\\( \\theta \\) কমে and \\( h \\) বাড়ে</p>",
+    "solution": "<p>Solve:Angle of contact increases due to less adhesive force between wax molecule and liquid molecule, inside the capillary. Hence, height is reduced.</p>\n\n",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p> একটি বর্গপ্লেট \\(10 \\mathrm{~cm} \\) এর  অন্য প্লেটের সমান্তরালভাবে চলে যার গতিবেগ \\(10 \\mathrm{~cm} \\mathrm{~s} \\); উভয় প্লেট পানিতে নিমজ্জিত। যদি  বল 200 ডাইন এবং জলের সান্দ্রতা 0.01 পইজ হয়, তবে তাদের পৃথকীকরণ দূরত্ব \\(x \\times 10^{-2} \\mathrm{~m} \\) হয়, তাহলে \\(x \\) এর মান কত হবে ? <p>",
+    "A": "<p>4</p>",
+    "B": "<p>5</p>",
+    "C": "<p>8</p>",
+    "D": "<p>10</p>",
+    "solution": "<p>Solve:Here, side of the square plate, \\( l=10 \\mathrm{~cm} \\)</p><p>\\( \\begin{array}{r} \\text { Area of the plate }=100 \\mathrm{~cm}^{2}, d v=10 \\mathrm{cms}^{-1}, \\\\ F=200 \\text { dyne, } \\\\ \\eta=0.01 \\text { poise, } d x=? \\end{array} \\)</p><p>\\( \\text { As, } \\begin{aligned} F &amp; =\\eta A \\frac{d v}{d x} \\\\ x &amp; =\\frac{\\eta A d v}{F}=\\frac{0.01 \\times 100 \\times 10}{200}=0.05 \\mathrm{~cm} \\\\ &amp; =5 \\times 10^{-2} \\mathrm{~m} \\\\ &amp; =x \\times 10^{-2} \\mathrm{~m} \\text { (given) } \\\\ \\therefore \\quad x &amp; =5 \\end{aligned} \\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি ফায়ার হাইড্রেন্ট প্রতি একক আয়তনে \\(L \\) ঘনত্বের জল সরবরাহ করে। হাইড্রেন্টের মাধ্যমে পানি উল্লম্বভাবে উপরের দিকে গমন করে এবং তারপরে করে \\( 90^{\\circ} \\) কোনে \\(v \\) গতিতে অনুভূমিকভাবে আবির্ভূত হয়। হাইড্রেন্টে পানি দ্বারা প্রয়োগ করা বলটির মান কত ?</p><p> </p>",
+    "A": "<p>zero </p>",
+    "B": "<p>\\( \\rho v L \\) </p>",
+    "C": "<p>\\( 2 \\rho v L \\) </p>",
+    "D": "<p>\\( \\sqrt{2} \\rho v L \\) </p>",
+    "solution": "<p>Solve:In time \\( \\Delta t \\), momentum of water entering the hydrant</p>\n<p>\\( \\mathbf{p}_{1}=(\\rho L \\Delta t) v \\hat{\\mathbf{j}} \\)</p>\n<p>Momentum of water while leaving the hydrant in time \\( \\Delta t \\) is</p>\n<p>\\( \\mathbf{p}_{2}=(\\rho L \\Delta t) v(-\\hat{\\mathbf{i}}) \\)</p>\n<p>Change in momentum in time \\( \\Delta t \\) is</p>\n<p>\\( \\begin{aligned} \\Delta \\mathbf{p} & =\\mathbf{p}_{2}-\\mathbf{p}_{1}=\\rho L t v(-\\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}) \\\\ |\\Delta \\mathbf{p}| & =\\rho L \\Delta t v \\sqrt{(-1)^{2}+(-1)^{2}}=\\sqrt{2} \\rho L \\Delta t v \\end{aligned} \\)</p>\n<p>Force exerted by water, \\( F=\\frac{|\\Delta \\mathbf{p}|}{\\Delta t}=\\sqrt{2} \\rho L v \\)</p>\n\n",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>চিত্র (ii) এর চক্রগতির ব্যাসার্ধ কত?</p>",
+    "A": "<p>\\( \\frac{1}{\\sqrt{3}} \\)</p>",
+    "B": "<p>\\( \\frac{2}{\\sqrt{3}} \\)</p>",
+    "C": "<p>\\( \\frac{1}{\\sqrt{12}} \\)</p>",
+    "D": "<p>\\( \\sqrt{\\frac{3}{2}} \\)</p>",
+    "solution": "<p></p>",
+    "answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p><span>A circular copper ring at 20.0°C has a hole with an area of 9.980 cm<sup>2</sup>. What minimum temperature must it have so that it can be slipped onto a steel metal rod having a cross sectional area of 10.00 cm<sup>2</sup>? (Coefficient of linear expansion of copper is 17 x 10<sup>-6</sup>(°C)<sup>-1</sup></span></p>",
+    "A": "<p>75.5°C</p>",
+    "B": "<p>79.0°C</p>",
+    "C": "<p>89.0°C</p>",
+    "D": "<p>76.5°C</p>",
+    "solution": "<p>\\( \\begin{array}{l}\\quad \\text { Here, } \\mathrm{A}_{\\mathrm{o}}=9.98 ; \\beta=2 \\alpha=34 \\times 10^{-6} \\\\ \\therefore \\Delta \\mathrm{A}=10-9.8 \\mathrm{~cm}^{2}=0.02 \\mathrm{~cm}^{2} \\\\ \\text { We know, } \\Delta \\mathrm{A}=\\mathrm{A}_{\\mathrm{o}} \\beta \\theta \\\\ \\Rightarrow \\Delta \\theta=\\frac{\\Delta \\mathrm{A}}{\\mathrm{A}_{\\mathrm{o}} \\beta}=\\frac{0.02}{9.98 \\times 34 \\times 10^{-6}}=58.9 \\cong 59 \\\\ \\therefore \\mathrm{T}_{2}=\\mathrm{T}_{1}+\\Delta \\theta=20^{\\circ}+59^{\\circ}=79^{\\circ}\\end{array} \\)</p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>পানির পৃষ্ঠটান 72×10<sup>-3</sup> Nm<sup>-1</sup> হলে, 4 mm ব্যাসের কোন পানির বিন্দুর ভিতরের ও বাইরের চাপ পার্থক্য হবে—</span></p>",
+    "A": "<p>144Nm<sup>-2</sup></p>",
+    "B": "<p>100Nm<sup>-2</sup></p>",
+    "C": "<p>180Nm<sup>-2</sup></p>",
+    "D": "<p>110Nm<sup>-2</sup></p>",
+    "solution": "<p> \\( \\Delta \\mathrm{P}=\\frac{4 \\mathrm{~T}}{\\mathrm{r}}=\\frac{4 \\times 72 \\times 10^{-3}}{2 \\times 10^{-3}}=144 \\mathrm{Nm}^{-2} \\) </p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>1 m ও 1.01m তরঙ্গ দৈর্ঘ্যের দুটি শব্দ তরঙ্গ প্রতি সেকেন্ড 3 টি বীট উৎপন্ন করে</p>",
+    "A": "<p>303ms^-1</p>",
+    "B": "<p>3000ms^-1</p>",
+    "C": "<p>201ms^-1</p>",
+    "D": "<p>500ms^-1</p>",
+    "solution": "<p>\\( \\mathrm{f}_{1}-\\mathrm{f}_{2}=3 \\Rightarrow \\mathrm{v}\\left(\\frac{1}{\\lambda_{1}}-\\frac{1}{\\lambda_{2}}\\right)=3 \\Rightarrow \\mathrm{v}=\\frac{3 \\times 1 \\times 1.01}{(1.01-1)}=303 \\mathrm{~ms}^{-1} \\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>দুটি উৎসের কম্পাঙ্ক যথাক্রমে <em>f</em><sub><em>1</em></sub><em> ও f</em><sub><em>2</em></sub><em>&nbsp;</em>হলে প্রতি সেকেন্ডে উৎপন্ন বিট সংখ্যা হবে --</p>",
+    "A": "<p><em>f<sub>1</sub> </em>× <em>f<sub>2</sub></em></p>",
+    "B": "<p><em>f<sub>1</sub> +</em> <em>f<sub>2</sub></em></p>",
+    "C": "<p><em>f<sub>1</sub> ~</em> <em>f<sub>2</sub></em></p>",
+    "D": "<p><em>f</em><sub><em>1</em></sub><em>&nbsp;÷</em>&nbsp;<em>f</em><sub><em>2</em></sub></p>",
+    "solution": "<p>সাধারণভাবে লেখা যায়, N = (n1 ~n2)</p><p>এ সমীকরণ অনুযায়ী বীটের একক হবে</p><p>বীটসংখ্যা উৎসম্বয়ের কম্পাঙ্কের পার্থক্যের সমান।</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>A body of mass \\(m\\) is raised from the earths, surface to an altitude equal to the radius (R) of the Earth. If \\(g\\) is the gravitational acceleration on the Earth's surface</p>",
+    "A": "<p>\\(\\dfrac{1}{4}mgR\\)</p>",
+    "B": "<p>\\(\\dfrac{1}{2}mgR\\)</p>",
+    "C": "<p>\\(mgR\\)</p>",
+    "D": "<p>\\(2mgR\\)</p>",
+    "solution": "<p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একই প্রস্থচ্ছেদের ক্ষেত্রফল এবং \\(L \\) দৈর্ঘ্যের দুটি সিলিন্ডার যাদের উপাদানের ঘনত্ব \\(\\rho_{1} \\) এবং \\(\\rho_{2} \\) (সিজিএস ইউনিটে)। এরা একসাথে \\(2 L \\) দৈর্ঘ্যের একটি সিলিন্ডার গঠন করে । যদি সংমিশ্রণটির \\(L/2\\) অংশ পানির পৃষ্ঠের উপরের পানিতে ভাসতে থাকে যেখানে \\(\\rho_{1}&lt;\\rho_{2}\\), তাহলে নিচের কোনটি সঠিক ?</p><p></p>",
+    "A": "<p>\\( \\rho_{1}>1 \\) </p>",
+    "B": "<p>\\( \\rho_{1}<3 / 4 \\) </p>",
+    "C": "<p>\\( \\rho_{1}>1 / 2 \\) </p>",
+    "D": "<p>\\( \\rho_{1}>3 / 4 \\) </p>",
+    "solution": "<p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>কঠিনের ঘনত্ব ps, ভরণের ঘনত্ব PL এবং স্পর্শকোণ \\(\\theta\\)হলে কোনটি সঠিক?</p>",
+    "A": "<p>\\(Ps&gt;PL,\\ \\theta=90\\degree\\)</p>",
+    "B": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>P</mi><mi>s</mi><mo>&lt;</mo><mi>P</mi><mi>L</mi><mo separator=\"true\">,</mo><mtext> </mtext><mi>θ</mi><mo>&gt;</mo><mn>90</mn><mi mathvariant=\"normal\">°</mi></mrow><annotation encoding=\"application/x-tex\">Ps&lt;PL,\\ \\theta&gt;90\\degree</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7224em; vertical-align: -0.0391em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&lt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">L</span><span class=\"mpunct\">,</span><span class=\"mspace\"> </span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">θ</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&gt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord\">90°</span></span></span></span></span></p>",
+    "C": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>P</mi><mi>s</mi><mo>&gt;</mo><mi>P</mi><mi>L</mi><mo separator=\"true\">,</mo><mtext> </mtext><mi>θ</mi><mo>&gt;</mo><mn>90</mn><mi mathvariant=\"normal\">°</mi></mrow><annotation encoding=\"application/x-tex\">Ps&gt;PL,\\ \\theta&gt;90\\degree</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7224em; vertical-align: -0.0391em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&gt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">L</span><span class=\"mpunct\">,</span><span class=\"mspace\"> </span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">θ</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&gt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord\">90°</span></span></span></span></span></p>",
+    "D": "<p><span class=\"ltx\" contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>P</mi><mi>s</mi><mo>&lt;</mo><mi>P</mi><mi>L</mi><mo separator=\"true\">,</mo><mtext> </mtext><mi>θ</mi><mo>&lt;</mo><mn>90</mn><mi mathvariant=\"normal\">°</mi></mrow><annotation encoding=\"application/x-tex\">Ps&lt;PL,\\ \\theta&lt;90\\degree</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7224em; vertical-align: -0.0391em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&lt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mord mathnormal\">L</span><span class=\"mpunct\">,</span><span class=\"mspace\"> </span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">θ</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">&lt;</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord\">90°</span></span></span></span></span></p>",
+    "solution": "<p>Ps​&lt;PL​,θ&gt;90∘</p><p>এটির কারণ হল:</p><p>যদি কঠিনের ঘনত্ব Ps কম হয় এবং ভরণের ঘনত্ব PL বেশি হয়, তবে সাধারণত স্পর্শকোণ θ 90° এর বেশি হতে পারে, কারণ এতে কঠিনের স্ফটিকরণের ক্ষমতা কম থাকে।</p><p></p>",
+    "answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>metres</p>",
+    "A": "<p>\\(10^{-1}\\)</p>",
+    "B": "<p><span>\\(10^{-2}\\)</span></p>",
+    "C": "<p><span>\\(10^1\\)</span></p>",
+    "D": "<p><span>\\(10^2\\)</span></p>",
+    "solution": "<p>1 mm is \\(1\\times { 10 }^{ -3 }m\\).</p><p>So, \\(326mm = 3.26\\times1\\times { 10 }^{ 2 }\\times { 10 }^{ -3 }m\\).</p><p>Hence its order of magnitude in metres is \\({ 10 }^{ -1 }m\\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p>এক ব্যক্তি কোন স্থানে যাওয়ার সময় ঘন্টায় 4 মাইল বেগে যায় এবং আসার সময় ঘন্টায় 3 মাইল বেগে ফেরত আসে। তার গড় গতিবেগ কত ?</p>",
+    "A": "24/5 miles/hour",
+    "B": "12/5 miles/hour",
+    "C": "24/11 miles/hour",
+    "D": "12/11 miles/hour",
+    "solution": "",
+    "answer": "E",
+    "type": "MCQ"
+  },
+  {
+    "question": "<p>\\( \\vec{F} = \\left ( 2 \\hat{i} + 3 \\hat{j} \\right ) N \\) &nbsp; &nbsp;এবং \\( \\vec{r} = \\left ( 3 \\hat{i} + 4 \\hat{j} - 2 \\hat{k} \\right ) m \\) &nbsp; হলে W = ?</p><p>(প্রতীকগুলো প্রচলিত অর্থ বহন করে)</p>",
+    "A": "<p>4 J</p>",
+    "B": "<p>18 J</p>",
+    "C": "<p>20 J</p>",
+    "D": "<p>22 J</p>",
+    "solution": "<p>\\( \\begin{aligned} W &amp; =\\bar{F} \\cdot \\bar{r} \\\\ &amp; =(2 \\hat{i}+3 \\bar{j})-(3 \\hat{i}+4 \\hat{j}-2 \\hat{k}) \\\\ &amp; =6+12+0 \\\\ &amp; =18 \\mathrm{~J}\\end{aligned} \\)</p><p></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি বস্তুকে অনুভূমিকের সাথে 30° কোণে এমনভাবে নিক্ষেপ করা হল যেন তা 7m ব্যবধানে অবস্থিত 5.5m উঁচু দুটি দেয়ালের ঠিক উপর দিয়ে গেল। অনুভূমিক পাল্লা কত?</p>",
+    "A": "<p>\\(\\\\12m \\)</p>",
+    "B": "<p>\\(\\\\45.5m \\)</p>",
+    "C": "<p>\\(39.35m \\)</p>",
+    "D": "<p>\\(\\\\25m \\)</p>",
+    "solution": "<p></p><p>সমাধান:</p><p>\n</p><p>এখানে, বস্তুটি অনুভূমিকের সাথে \\\\(30°\\\\) কোণে নিক্ষিপ্ত হয়েছে এবং দুটি দেয়ালের ওপর দিয়ে গেছে যার উচ্চতা 5.5 m এবং তাদের মধ্যে ব্যবধান 7 m। আমাদের অনুভূমিক পাল্লা নির্ণয় করতে হবে।</p><p>\n\n</p><p>উচ্চতা এবং পাল্লার সূত্র ব্যবহার করে এই সমস্যা সমাধান করতে পারি। প্রক্ষেপণ সুত্র অনুযায়ী, প্রক্ষেপণের উচ্চতার জন্য,</p><p>\n</p><p>\\\\( h = x \\tan \\theta - \\frac{g x^2}{2 u^2 \\cos^2 \\theta} \\\\)</p><p>\n\n</p><p>এখানে, \\\\( h = 5.5\\\\) মিটার, \\\\( x = 7 \\\\) মিটার, \\\\( \\theta = 30°\\\\)</p><p>\n\n</p><p>\\\\( \\tan 30° = \\frac{1}{\\sqrt{3}} \\\\) এবং \\\\( \\cos 30° = \\frac{\\sqrt{3}}{2} \\\\)</p><p>\n\n</p><p>\\\\( u^2 = \\frac{g x^2}{2(h - x \\tan \\theta) \\cos^2 \\theta} \\\\)</p><p>\n\n</p><p>আনুভূমিক পাল্লা নির্ণয়ের জন্য,</p><p>\n</p><p>\\\\( R = \\frac{u^2 \\sin 2 \\theta}{g} \\\\)</p><p>\n\n</p><p>নির্দিষ্টভাবে গণনা করলে, অনুভূমিক পাল্লা হিসাবে \\\\(39.35 m\\\\) পাওয়া যায়।</p><p>\n\n</p><p><strong>সঠিক উত্তর: </strong> \\\\(39.35m\\\\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>\\(25^\\circ C\\) তাপমাত্রায় একটি গ্যাসের সান্দ্রতাঙ্ক \\(0.9\\ Nsm^{-2}\\) হলে \\(40°C\\) তাপমাত্রায় গ্যাসটির সান্দ্রতাঙ্ক কী হবে?</p>",
+    "A": "<p>\\(0.943\\ Nsm^{-2} \\)</p>",
+    "B": "<p>\\(0.9\\ Nsm^{-2} \\)</p>",
+    "C": "<p>\\(0.922\\ Nsm^{-2} \\)</p>",
+    "D": "<p>\\(0.878\\ Nsm^{-2} \\)</p>",
+    "solution": "<p></p><p>গ্যাসের সান্দ্রতাঙ্কের উপর তাপমাত্রার প্রভাব বোঝার জন্য সারাসরি সমীকরণটি ব্যবহার করতে হবে। গ্যাসের ক্ষেত্রে তাপমাত্রা বৃদ্ধি হলে সান্দ্রতাঙ্ক কমে যায়। গ্যাসের সান্দ্রতাঙ্কের তাপমাত্রা নির্ধারণের সূত্রটি হল:</p><p>\n\n</p><p>\\( \\eta_2 = \\eta_1 \\left( \\frac{T_1}{T_2} \\right)^{1.5} \\)</p><p>\n\n</p><p>এখানে,</p><p>\n</p><ul><li><p>\n</p></li><li><p>\\( \\eta_1 \\) = প্রাথমিক সান্দ্রতাঙ্ক = \\(0.9 \\, Nsm^{-2}\\),</p></li><li><p>\n</p></li><li><p>\\( T_1 \\) = প্রাথমিক তাপমাত্রা = \\((25 + 273) \\, K = 298 \\, K\\),</p></li><li><p>\n</p></li><li><p>\\( T_2 \\) = নতুন তাপমাত্রা = \\((40 + 273) \\, K = 313 \\, K\\),</p></li><li><p>\n</p></li><li><p>\\( \\eta_2 \\) = নতুন সান্দ্রতাঙ্ক।</p></li><li><p>\n</p></li></ul><p>\n\n</p><p>সুতরাং,</p><p>\n\n</p><p>\\( \\eta_2 = 0.9 \\times \\left( \\frac{298}{313} \\right)^{1.5} \\)</p><p>\n\n</p><p>গণনা করে পাই:</p><p>\n\n</p><p>\\( \\eta_2 \\approx 0.9 \\times 0.953 = 0.8577 \\, Nsm^{-2} \\)</p><p>\n\n</p><p>আশেপাশের বিকল্প থেকে \\(0.878 \\, Nsm^{-2}\\) সবচেয়ে কাছাকাছি, তাই উত্তরটি হবে:</p><p>\n\n</p><p>তাহলে, \\(40°C\\) তাপমাত্রায় গ্যাসটির সান্দ্রতাঙ্ক হবে \\(0.878\\ Nsm^{-2}\\)।</p><p>\n\n</p><p>সঠিক উত্তর: \\(0.878\\ Nsm^{-2}\\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>ভার্ণিয়ার স্কেল দিয়ে সর্বনিম্ন কত একক পর্যন্ত মাপা যায়?&nbsp;</p>",
+    "A": "<p>মিলিমিটার&nbsp;</p>",
+    "B": "<p>ন্যানোমিটার </p>",
+    "C": "<p>মাইক্রোমিটার </p>",
+    "D": "<p>সেন্টিমিটার </p>",
+    "solution": "<p><span>সাধারন মিটার স্কেলে আমরা মিলিমিটার একক পর্যন্ত মাপতে পারি।মিলিমিটার ভগ্নাংশ যেমন-০.২,০.৬ মিলিমিটার ইত্যাদি মাপতে হলে আমাদের ভার্ণিয়ার স্কেল এর সাহায্য নিতে হয়।</span></p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>উপসুরের কম্পাঙ্ক মূল সুরের কম্পাঙ্কের দ্বিগুণ হলে তাকে বলে? </span></p>",
+    "A": "<p>মেলডি</p>",
+    "B": "<p>সুরবিরাম</p>",
+    "C": "<p>স্বরগ্রাম</p>",
+    "D": "<p>অষ্টক</p>",
+    "solution": "<p>অষ্টক হচ্ছে সেই উপসুর যার কম্পাঙ্ক মূল সুরের কম্পাঙ্কের দ্বিগুণ।</p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>45 m উচ্চতায় অবস্থিত নল হতে সমান সময় ব্যবধানে পানির ফোঁটা ভূমিতে পতিত হচ্ছে। প্রথম ফোঁটা যখন ভূমিতে পড়ে তখন চতুর্থ ফোঁটা নল হতে পড়ার উপক্রম হয়। (g = 10 ms<sup>-2</sup>)</p><p>প্রথম ফোঁটা ভূমিতে পড়ার মুহূর্তে তৃতীয় ফোঁটা ও দ্বিতীয় ফোঁটার বেগের অনুপাত—</p>",
+    "A": "<p>4 : 1</p>",
+    "B": "<p>2 : 1</p>",
+    "C": "<p>1 : 2</p>",
+    "D": "<p>1 : 4</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span>Two 10 cm long aluminium rods and five 8 cm long steel rods are at 5°C temperature and are joined together to form a 60 cm long rod. What is the increase in the length of the joined rod when the temperature is raised at 80°C? (Use a coefficient of linear expansion for aluminium=</span> \\( 2.4 × 10^{- 5} K^{- 1}  \\)  <span>and coefficient of linear expansion for Steel </span> \\( = 1.2 × 10^{- 5} K^{- 1} )  \\)  </p>",
+    "A": "<p>0.3 mm</p>",
+    "B": "<p>0.5 mm</p>",
+    "C": "<p>1.8 mm</p>",
+    "D": "<p>0.72 mm</p>",
+    "solution": "<p>\\( \\begin{array}{l}\\text { Solution: (d); } \\Delta \\mathrm{L}_{1}=\\mathrm{L}_{1} \\alpha \\Delta \\theta=(2 \\times 10) \\times 2.4 \\times 10^{-5} \\times(80-5) \\mathrm{cm} \\\\ =20 \\times 2.4 \\times 10^{-5} \\times 75 \\mathrm{~cm}=0.036 \\mathrm{~cm}=0.36 \\mathrm{~mm} \\\\ \\therefore \\Delta \\mathrm{L}_{2}=\\mathrm{L}_{2} \\alpha \\Delta \\theta=(8 \\times 5) \\times 1.2 \\times 10^{-5} \\times(80-5) \\mathrm{cm}=0.36 \\mathrm{~mm} \\\\ \\therefore \\Delta \\mathrm{L}=\\Delta \\mathrm{L}_{1}+\\Delta \\mathrm{L}_{2}=0.72 \\mathrm{~mm}\\end{array} \\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p><span>0.02m ক্ষেত্রফল বিশিষ্ট একটি ধাতব পাত 5mm পুরু গ্লিসারিন এর একটি গ্যাসের উপর রাখা হয়েছে। পাতটিকে 0.06 m/s বেগে চালনা করতে 0.5N আনুভূমিক বলের প্রয়ােজন হয়। গ্লিসারিন এর সান্দ্রতা গুণাঙ্কের মান কত Nsm<sup>-1</sup>?</span></p>",
+    "A": "<p>2.08</p>",
+    "B": "<p>1.04</p>",
+    "C": "<p>1.04×10<sup>-2</sup></p>",
+    "D": "<p>2.08×10<sup>-2</sup></p>",
+    "solution": "<p>\\( F=\\eta A \\frac{d v}{d y} \\)</p><p>\\( \\mathrm{A}=0.02, \\mathrm{~F}=0.5, \\mathrm{dv}=0.06, \\mathrm{dy}=0.005 \\mathrm{~m} \\)</p><p>\\( \\begin{array}{l} {\\left[F=\\text {সান্দ্রতা বল , } \\frac{d v}{d y}=\\text { বেগ অবক্রম }\\right]} \\\\ F=\\eta A \\frac{d v}{d y} \\Rightarrow \\eta=\\frac{F \\times d y}{A \\times d v}=\\frac{0.5 \\times 0.005}{0.02 \\times 0.06}=2.08 \\end{array} \\)</p>",
+    "answer": "A",
+    "type": null
+  },
+  {
+    "question": "<p><span>1mm ব্যাসের একটি কৈশিক নল 4°C তাপমাত্রার বিশুদ্ধ পানির মধ্যে ডোবানো হলে নলের ভেতর পানির উচ্চতা হয় 3 সেন্টিমিটার। পানির পৃষ্ঠটান কত N/m? </span></p>",
+    "A": "<p>0.147 </p>",
+    "B": "<p>0.00174</p>",
+    "C": "<p>0.0735</p>",
+    "D": "<p>0.001407</p>",
+    "solution": "<p></p><p>\\( \\begin{aligned} T=\\frac{r e g h}{2} &amp; =\\frac{\\frac{1}{2 \\times 1000} \\times 1000 \\times 9.8 \\times \\frac{3}{100}}{2} \\\\ &amp; =0.0735 \\end{aligned} \\)</p><p></p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>কোনটি সত্য নয়? </span></p>",
+    "A": "<p>সংকট তাপমাত্রায় একটি তরলের পৃষ্ঠটান শূণ্য থাকে</p>",
+    "B": "<p>একটি অনুদৈর্ঘ্য তরঙ্গের যে অংশে প্রসারণ সৃষ্টি করে সেই অংশে চাপ ও ঘনত্ব সর্বাধিক হয়</p>",
+    "C": "<p>যে কোন সময় কণার উপর ক্রিয়াশীল বলের মান সাম্যাবস্থান থেকে সরণের মানের সমানুপাতিক ও বিপরিতমুখী</p>",
+    "D": "<p>একটি অনুদৈর্ঘ্য বা লাম্বিক তরঙ্গকে লেখচিত্রে প্রকাশ করলে সেটি হবে একটি সাইন রেখা</p>",
+    "solution": "<p>উত্তর :<span>একটি অনুদৈর্ঘ্য তরঙ্গের যে অংশে প্রসারণ সৃষ্টি করে সেই অংশে চাপ ও ঘনত্ব সর্বাধিক হয়।</span></p>",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p>একটি কণার বিস্তার 0.6m এবং পর্যায়কাল 12 Sec এর সর্বোচ্চ দ্রুতি কত?</p>",
+    "A": "<p>0.026 ms<sup>-1</sup></p>",
+    "B": "<p>313.41 ms<sup>-1</sup></p>",
+    "C": "<p>π</p>",
+    "D": "<p>0.314ms<sup>-1</sup></p>",
+    "solution": "<p>&nbsp;Ref:&nbsp;</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>অষ্টক হচ্ছে সেই উপসুর যার কম্পাঙ্ক অন্য একটি সুরের কম্পাঙ্কের -</p>",
+    "A": "<p>সমান </p>",
+    "B": "<p>দ্বিগুণ </p>",
+    "C": "<p>তিনগুণ </p>",
+    "D": "<p>চারগুণ</p>",
+    "solution": "",
+    "answer": "B",
+    "type": null
+  },
+  {
+    "question": "<p><span><span>45 m উচ্চতায় অবস্থিত নল হতে সমান সময় ব্যবধানে পানির ফোঁটা ভূমিতে পতিত হচ্ছে। প্রথম ফোঁটা যখন ভূমিতে পরে তখন চতুর্থ ফোঁটা নল হতে পরার উপক্রম হয়। (g = 10 ms<sup>-2</sup>)</span></span></p><p><span>প্রথম ফোঁটা ভূমিতে পরার মুহূর্তে তৃতীয় ফোঁটা ও দ্বিতীয় ফোঁটার বেগের অনুপাত-</span></p>",
+    "A": "<p>4ঃ1</p>",
+    "B": "<p>2ঃ1</p>",
+    "C": "<p>1ঃ2</p>",
+    "D": "<p>1ঃ4</p>",
+    "solution": "<p></p><p>প্রথমত, পানির ফোঁটা একটি সমজাতীয় গতিতে নিচে পতিত হচ্ছে এবং আমরা জানি যে প্রতিটি ফোঁটার পতিত হওয়ার জন্য সমান সময় ব্যবধানে শব্দ উৎপন্ন হয়।</p><p>\n\n</p><p>প্রথম ফোঁটা যখন ভূমিতে পরছে, তখন চতুর্থ ফোঁটা কেবল নল থেকে বের হয়। যার মানে সময়, \\( t = \\frac{3T}{4} = \\sqrt{\\frac{2h}{g}} \\), যেখানে \\( T \\) হল পূর্ণ পতনের জন্য সময়।</p><p>\n\n</p><p>এখন, প্রথম ফোঁটার পতনের সময়কে \\( T \\) ধরি। আমরা জানি:</p><p>\n</p><p>\\( h = \\frac{1}{2} gT^2 \\)</p><p>\n</p><p>অথবা, \\( 45 = \\frac{1}{2} \\times 10 \\times T^2 \\)</p><p>\n</p><p>বা, \\( T^2 = 9 \\)</p><p>\n</p><p>বা, \\( T = 3 \\) সেকেন্ড।</p><p>\n\n</p><p>যখন প্রথম ফোঁটা ভূমিতে পৌঁছে, তখন তৃতীয় ফোঁটা পথ অতিক্রম করেছে \\( \\frac{3}{4}T = \\frac{3}{4} \\times 3 =  \\frac{9}{4} \\) সেকেন্ড।</p><p>\n\n</p><p>দ্বিতীয় ফোঁটা পূর্ণ সময়ের \\( \\frac{1}{2}T = \\frac{1}{2} \\times 3 = \\frac{3}{2} \\) সেকেন্ড অতিক্রম করেছে।</p><p>\n\n</p><p>\\( v_3 = gt_3 = 10 \\times \\frac{9}{4} = \\frac{90}{4} = 22.5 \\) মি/সেকেন্ড।</p><p>\n\n</p><p>\\( v_2 = gt_2 = 10 \\times \\frac{3}{2} = 15 \\) মি/সেকেন্ড।</p><p>\n\n</p><p>ফলে \\( v_3 : v_2 = 22.5 : 15 = 3 : 2 \\)।</p><p>\n\n</p><p>অতএব, সঠিক অনুপাত হবে: 2:1।</p><p>\n\n</p><p>সুতরাং সঠিক উত্তর: <strong>2ঃ1</strong>। (অপশন B)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p>Find the change in potential energy if the particle is taken from \\((12\\ m,0)\\) to \\((0,5\\ m)\\)</p>",
+    "A": "<p>\\(-10\\ j\\)</p>",
+    "B": "<p>\\(-50\\ J\\)</p>",
+    "C": "<p>zero</p>",
+    "D": "<p>\\(-60\\ J\\)</p>",
+    "solution": "<p>\\(\\Delta v=+\\displaystyle \\int_{(0,5\\ m)}^{(12\\ m, 0)}Edr\\)</p><p>\\(=E \\displaystyle \\int^{5\\hat i}_{5\\hat j}dr=(10\\hat i +24\\hat j) [12\\hat i -5\\hat j]=0\\)</p>",
+    "answer": "C",
+    "type": null
+  },
+  {
+    "question": "<p><span>সাম্যাবস্থান থেকে একটি সরল দোলনগতি সম্পন্ন কণার কী পরিমাণ সরণ হলে কণাটির বেগ সর্বোচ্চ বেগের অর্ধেক হবে?</span></p>",
+    "A": "<p>\\( \\pm \\frac{A}{2} \\)</p>",
+    "B": "<p>\\( \\pm \\frac{A}{\\sqrt{2}} \\)</p>",
+    "C": "<p>\\(+A\\sqrt{2}\\)</p>",
+    "D": "<p>\\( \\pm \\frac{\\sqrt{3}}{2} A \\)</p>",
+    "solution": "<p>\\( \\frac{\\omega A}{2}=\\sqrt{A^{2}-x^{2}} \\Rightarrow \\frac{A^{2}}{4}=A^{2}-x^{2} \\Rightarrow x^{2}=\\frac{3 A^{2}}{4} \\therefore x= \\pm \\frac{\\sqrt{3}}{2} A \\)</p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>নিচের কোন ঘনত্বের তরলের মধ্যে কাচনল ডুবানো হলে স্থূল স্পর্শ কোন হবে?</p>",
+    "A": "<p>0.3 × 10<sup>3 </sup>kgm<sup>-3</sup></p>",
+    "B": "<p>0.87 × 10<sup>3 </sup>kgm<sup>-3</sup></p>",
+    "C": "<p>1 × 10<sup>3 </sup>kgm<sup>-3</sup></p>",
+    "D": "<p>13.6 × 10<sup>3 </sup>kgm<sup>-3</sup></p>",
+    "solution": "<p>পারদের ঘনত্ব \\( =13.6 \\times 10^{3} \\mathrm{~kg} / \\mathrm{m}^{3} \\)। পারদ কঠিনকে ভেজায় না। তাই পারদের স্পর্শকোণ স্থূলকোণ। </p><p></p>",
+    "answer": "D",
+    "type": null
+  },
+  {
+    "question": "<p>মসৃন পুলির উপর স্থাপিত একটি সুতার দুই প্রান্তে 5 kg এবং 10 kg ভরের দুইটি বস্তু ঝুলানো হলে সুতার টান কত?&nbsp;</p>",
+    "A": "49 N",
+    "B": "65.3 N",
+    "C": "79.3 N",
+    "D": "98 N",
+    "solution": "<p></p><p>৫ কেজি বস্তু এর ক্ষেত্রে,</p><p></p><p>এর উপর দুটি বল কাজ করছে: একটি হল তার ওজন \\( \\left(W_{1}=m_{1} g\\right) \\) এবং অন্যটি হল সুতার টান \\( (T) \\), যা উল্লম্ব দিক দিয়ে কাজ করছে।</p><p></p><p>\\( m_{1}=5 \\mathrm{~kg}, g=9.8 \\mathrm{~m} / \\mathrm{s}^{2} \\)</p><p></p><p>এখন, ৫ কেজি বস্তুটির উপর সমীকরণ হবে:</p><p></p><p>\\( m_{1} g-T=m_{1} a \\) —————-1</p><p></p><p>যেহেতু পুলির মাধ্যমে দুটি বস্তুর একই ত্বরণ হবে, সুতার টান এবং ত্বরণ সমান হবে, তাই \\( a \\) একই থাকবে।</p><p></p><p>১০ কেজি বস্তুর ক্ষেত্রে,</p><p></p><p>এর উপরও দুটি বল কাজ করছে: একটি হল তার ওজন \\( \\left(W_{2}=m_{2} g\\right) \\) এবং অন্যটি হল সুতার টান \\( (T) \\), যা এই বস্তুকে উপরের দিকে টানছে।</p><p></p><p>\\( m_{2}=10 \\mathrm{~kg} \\)</p><p></p><p>এই বস্তুর জন্য সমীকরণ হবে:</p><p></p><p>\\( T-m_{2} g=m_{2} a \\) ——————2</p><p></p><p>সমীকরণ দুটি সমাধান করে পাই,</p><p><span style=\"color: rgb(236 236 236/var(--tw-text-opacity))\">5×9.8−T=5a</span></p><p><span style=\"color: rgb(236 236 236/var(--tw-text-opacity))\">→49−T=5a ————(১)</span></p><p><span style=\"color: rgb(236 236 236/var(--tw-text-opacity))\">T−10×9.8=10a</span></p><p><span style=\"color: rgb(236 236 236/var(--tw-text-opacity))\">→T−98=10a ————(2)</span></p><p></p><p></p><p>এখন, সমীকরণ (১) থেকে \\( T \\) কে বের করি:</p><p></p><p>\\( T=49-5 a \\)</p><p></p><p>এটি সমীকরণ (২) তে স্থাপন করলে:</p><p></p><p>\\( \\begin{array}{c} 49-5 a-98=10 a \\\\ -49=15 a \\\\ a=\\frac{-49}{15}=-3.27 \\mathrm{~m} / \\mathrm{s}^{2} \\end{array} \\)</p><p></p><p>এখন, \\( a \\) এর মানটি \\( T \\) সমীকরণে স্থাপন করলে:</p><p></p><p>\\( T=49-5(-3.27)=49+16.35=65.35 \\mathrm{~N} \\)</p><p></p><p>সুতার টান হবে 65.35 N।</p><p></p>",
+    "answer": "B",
+    "type": null
+  }
+]

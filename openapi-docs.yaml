@@ -1,0 +1,147 @@
+#ai generated
+# This is an OpenAPI 3.0 specification for a simple API
+
+openapi: 3.0.3
+info:
+    title: Search-Typesense API
+    version: "1.0.0"
+    description: >
+        This API allows you to perform a health check, search for questions,
+        and insert a new question into the Typesense collection (mcq_collection).
+servers:
+    - url: http://localhost:3000
+paths:
+    /health:
+        get:
+            summary: Health Check
+            description: Returns status of the server and Typesense connection.
+            responses:
+                "200":
+                    description: The server is running and returns Typesense health and collections.
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    server:
+                                        type: string
+                                        example: ok
+                                    typesense:
+                                        type: string
+                                        example: ok
+                                    collections:
+                                        type: array
+                                        items:
+                                            type: string
+
+    /search:
+        get:
+            summary: Search Questions
+            description: >
+                Searches for questions in the mcq_collection.
+                If the 'symantic' query parameter is set to "true", then
+                the search is performed on both the question and embedding fields.
+            parameters:
+                - in: query
+                  name: q
+                  required: true
+                  schema:
+                      type: string
+                  description: Query string. If missing, defaults to "*" (all documents).
+                - in: query
+                  name: symantic
+                  required: false
+                  schema:
+                      type: string
+                      enum: ["true", "false"]
+                  description: >
+                      Indicates whether to perform semantic search. When "true",
+                      the search is conducted on both question and embedding fields.
+                      defaults to "false".
+            responses:
+                "200":
+                    description: Array of search results
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    hits:
+                                        type: array
+                                        items:
+                                            type: object
+                "500":
+                    description: Server error during search
+                    content:
+                        text/plain:
+                            schema:
+                                type: string
+
+    /add:
+        post:
+            summary: Insert a New Question
+            description: >
+                Inserts a new question into the mcq_collection.
+                The incoming document will have its HTML tags sanitized.
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            required:
+                                - question
+                                - A
+                                - B
+                                - C
+                                - D
+                                - answer
+                            properties:
+                                question:
+                                    type: string
+                                    example: "একটি এসি উৎসের বিস্তার 220V..."
+                                A:
+                                    type: string
+                                    example: "i=0.637A"
+                                B:
+                                    type: string
+                                    example: " \\( i_{0} = 1 A  \\) "
+                                C:
+                                    type: string
+                                    example: "i=sin314t"
+                                D:
+                                    type: string
+                                    example: "\\( i_{\\max} = 3.11 A \\)"
+                                solution:
+                                    type: string
+                                    nullable: true
+                                    example: null
+                                answer:
+                                    type: string
+                                    example: "D"
+                                type:
+                                    type: string
+                                    nullable: true
+                                    example: null
+            responses:
+                "201":
+                    description: Document inserted successfully
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    statusCode:
+                                        type: integer
+                                        example: 201
+                                    message:
+                                        type: string
+                                        example: Document inserted successfully
+                                    result:
+                                        type: object
+                "500":
+                    description: Error inserting document
+                    content:
+                        text/plain:
+                            schema:
+                                type: string
