@@ -3,6 +3,9 @@ import bodyParser from "body-parser";
 import Typesense from "typesense";
 import { checkValidity } from "./utils.js";
 import morgan from "morgan";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const app = express();
 app.use(bodyParser.json());
@@ -16,7 +19,7 @@ const client = new Typesense.Client({
             protocol: "http",
         },
     ],
-    apiKey: "xyz",
+    apiKey: process.env.TYPESENSE_KEY,
     connectionTimeoutSeconds: 2,
 });
 

@@ -1,6 +1,8 @@
 import Typesense from "typesense";
 import fs from "fs";
 import { checkValidity } from "./utils.js";
+import dotenv from "dotenv";
+dotenv.config();
 
 const client = new Typesense.Client({
     nodes: [
@@ -10,7 +12,7 @@ const client = new Typesense.Client({
             protocol: "http",
         },
     ],
-    apiKey: "xyz",
+    apiKey: process.env.TYPESENSE_KEY,
     connectionTimeoutSeconds: 2,
 });
 
